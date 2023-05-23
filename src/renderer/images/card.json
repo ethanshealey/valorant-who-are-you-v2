@@ -1,0 +1,1947 @@
+{
+    "33c1f011-4eca-068c-9751-f68c788b2eee": {
+        "Name": "The Way Forward Card",
+        "Image": "https://media.valorant-api.com/playercards/33c1f011-4eca-068c-9751-f68c788b2eee/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/33c1f011-4eca-068c-9751-f68c788b2eee/largeart.png"
+    },
+    "fc209787-414b-10d0-dcac-04832fc2c654": {
+        "Name": "Hivemind Card",
+        "Image": "https://media.valorant-api.com/playercards/fc209787-414b-10d0-dcac-04832fc2c654/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fc209787-414b-10d0-dcac-04832fc2c654/largeart.png"
+    },
+    "3432dc3d-47da-4675-67ae-53adb1fdad5e": {
+        "Name": "VERSUS // Phoenix \u002B Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/3432dc3d-47da-4675-67ae-53adb1fdad5e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3432dc3d-47da-4675-67ae-53adb1fdad5e/largeart.png"
+    },
+    "59939bea-4b82-9ce0-0586-d4b0c8d5271d": {
+        "Name": "Judge Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/59939bea-4b82-9ce0-0586-d4b0c8d5271d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/59939bea-4b82-9ce0-0586-d4b0c8d5271d/largeart.png"
+    },
+    "55f584f9-4684-895d-88e0-a8ada2002d8a": {
+        "Name": "Killjoy ID Card",
+        "Image": "https://media.valorant-api.com/playercards/55f584f9-4684-895d-88e0-a8ada2002d8a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/55f584f9-4684-895d-88e0-a8ada2002d8a/largeart.png"
+    },
+    "fca32892-4f2f-228b-0f5c-209ad50199b3": {
+        "Name": "Chicken Noir Card",
+        "Image": "https://media.valorant-api.com/playercards/fca32892-4f2f-228b-0f5c-209ad50199b3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fca32892-4f2f-228b-0f5c-209ad50199b3/largeart.png"
+    },
+    "adbd4077-4f0f-57c7-d9cd-7e9bc4244646": {
+        "Name": "Odin Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/adbd4077-4f0f-57c7-d9cd-7e9bc4244646/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/adbd4077-4f0f-57c7-d9cd-7e9bc4244646/largeart.png"
+    },
+    "30b64514-440d-1261-f863-6bbb180263f9": {
+        "Name": "POLYfox Card",
+        "Image": "https://media.valorant-api.com/playercards/30b64514-440d-1261-f863-6bbb180263f9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/30b64514-440d-1261-f863-6bbb180263f9/largeart.png"
+    },
+    "d2b288ea-4dc9-0b3b-fc8c-3baec575f0f8": {
+        "Name": "Experiment X011 Card",
+        "Image": "https://media.valorant-api.com/playercards/d2b288ea-4dc9-0b3b-fc8c-3baec575f0f8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d2b288ea-4dc9-0b3b-fc8c-3baec575f0f8/largeart.png"
+    },
+    "5ed8f14b-4c05-9e34-a0dd-878133823928": {
+        "Name": "Epoch Event Card",
+        "Image": "https://media.valorant-api.com/playercards/5ed8f14b-4c05-9e34-a0dd-878133823928/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5ed8f14b-4c05-9e34-a0dd-878133823928/largeart.png"
+    },
+    "f951d97c-4abb-0775-2312-4db199cde6bf": {
+        "Name": "Vandal Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/f951d97c-4abb-0775-2312-4db199cde6bf/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f951d97c-4abb-0775-2312-4db199cde6bf/largeart.png"
+    },
+    "16939544-4f84-c889-545e-659e071ff3f8": {
+        "Name": "Pigs May Fly Card",
+        "Image": "https://media.valorant-api.com/playercards/16939544-4f84-c889-545e-659e071ff3f8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/16939544-4f84-c889-545e-659e071ff3f8/largeart.png"
+    },
+    "475ce7c1-4ddc-63aa-7e22-54bb621d615b": {
+        "Name": "Ancient Secrets Card",
+        "Image": "https://media.valorant-api.com/playercards/475ce7c1-4ddc-63aa-7e22-54bb621d615b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/475ce7c1-4ddc-63aa-7e22-54bb621d615b/largeart.png"
+    },
+    "22888904-4274-c5fb-ac4f-0e8a39a9417e": {
+        "Name": "Holidaze Card",
+        "Image": "https://media.valorant-api.com/playercards/22888904-4274-c5fb-ac4f-0e8a39a9417e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/22888904-4274-c5fb-ac4f-0e8a39a9417e/largeart.png"
+    },
+    "48ed2529-4295-c37a-eaa1-15a1c4137abe": {
+        "Name": "Bucky Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/48ed2529-4295-c37a-eaa1-15a1c4137abe/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/48ed2529-4295-c37a-eaa1-15a1c4137abe/largeart.png"
+    },
+    "fe84218f-4338-0f85-62cd-dfa5596576a0": {
+        "Name": "Ghost Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/fe84218f-4338-0f85-62cd-dfa5596576a0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fe84218f-4338-0f85-62cd-dfa5596576a0/largeart.png"
+    },
+    "9397e078-4140-cc2b-4fcd-b0afedb9ece8": {
+        "Name": "Skye ID Card",
+        "Image": "https://media.valorant-api.com/playercards/9397e078-4140-cc2b-4fcd-b0afedb9ece8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9397e078-4140-cc2b-4fcd-b0afedb9ece8/largeart.png"
+    },
+    "c0b560fc-4140-9bf1-daee-4da652b824c5": {
+        "Name": "MEMENTO MORI Card",
+        "Image": "https://media.valorant-api.com/playercards/c0b560fc-4140-9bf1-daee-4da652b824c5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c0b560fc-4140-9bf1-daee-4da652b824c5/largeart.png"
+    },
+    "b79b6dac-4d30-7a76-5710-c0873224f31b": {
+        "Name": "Radianite Hazard Card",
+        "Image": "https://media.valorant-api.com/playercards/b79b6dac-4d30-7a76-5710-c0873224f31b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b79b6dac-4d30-7a76-5710-c0873224f31b/largeart.png"
+    },
+    "7aa1a5fb-4ae3-9a3b-ae04-05bd9fc02413": {
+        "Name": "VERSUS // Raze \u002B Killjoy Card",
+        "Image": "https://media.valorant-api.com/playercards/7aa1a5fb-4ae3-9a3b-ae04-05bd9fc02413/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7aa1a5fb-4ae3-9a3b-ae04-05bd9fc02413/largeart.png"
+    },
+    "a80d8898-464d-1b63-4b1b-149930c22b6b": {
+        "Name": "VALOR-ANT Card",
+        "Image": "https://media.valorant-api.com/playercards/a80d8898-464d-1b63-4b1b-149930c22b6b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a80d8898-464d-1b63-4b1b-149930c22b6b/largeart.png"
+    },
+    "d14c070e-4f7a-8ab1-350e-199af481d32a": {
+        "Name": "VERSUS // Vandal \u002B Phantom Card",
+        "Image": "https://media.valorant-api.com/playercards/d14c070e-4f7a-8ab1-350e-199af481d32a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d14c070e-4f7a-8ab1-350e-199af481d32a/largeart.png"
+    },
+    "f0196638-47a9-c2da-7665-f599e3d930ad": {
+        "Name": "Epilogue: VERSUS // Vandal \u002B Phantom Card",
+        "Image": "https://media.valorant-api.com/playercards/f0196638-47a9-c2da-7665-f599e3d930ad/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f0196638-47a9-c2da-7665-f599e3d930ad/largeart.png"
+    },
+    "f32eb1e5-4cd3-0520-88a3-0cafb7423002": {
+        "Name": "Secret Lineage Card",
+        "Image": "https://media.valorant-api.com/playercards/f32eb1e5-4cd3-0520-88a3-0cafb7423002/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f32eb1e5-4cd3-0520-88a3-0cafb7423002/largeart.png"
+    },
+    "2ee6d025-4aac-3a67-0f6e-dba827acc75f": {
+        "Name": "Arcane Mysteries Card",
+        "Image": "https://media.valorant-api.com/playercards/2ee6d025-4aac-3a67-0f6e-dba827acc75f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2ee6d025-4aac-3a67-0f6e-dba827acc75f/largeart.png"
+    },
+    "acf37618-43de-2a3e-ccf9-ea9c3cb4dd33": {
+        "Name": "Welcome to the Undercity Card",
+        "Image": "https://media.valorant-api.com/playercards/acf37618-43de-2a3e-ccf9-ea9c3cb4dd33/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/acf37618-43de-2a3e-ccf9-ea9c3cb4dd33/largeart.png"
+    },
+    "9fb348bc-41a0-91ad-8a3e-818035c4e561": {
+        "Name": "VALORANT Card",
+        "Image": "https://media.valorant-api.com/playercards/9fb348bc-41a0-91ad-8a3e-818035c4e561/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9fb348bc-41a0-91ad-8a3e-818035c4e561/largeart.png"
+    },
+    "5aaa58d8-4567-dc02-dc74-fbaa957fa7cd": {
+        "Name": "MMXX Founder Card",
+        "Image": "https://media.valorant-api.com/playercards/5aaa58d8-4567-dc02-dc74-fbaa957fa7cd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5aaa58d8-4567-dc02-dc74-fbaa957fa7cd/largeart.png"
+    },
+    "51dcf475-4078-2dce-883b-48bb77670ea8": {
+        "Name": "Vertraulich Card",
+        "Image": "https://media.valorant-api.com/playercards/51dcf475-4078-2dce-883b-48bb77670ea8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/51dcf475-4078-2dce-883b-48bb77670ea8/largeart.png"
+    },
+    "cd5e4a23-4a0b-0f31-d87a-a1a2ec3301f4": {
+        "Name": "Looking For Group Card",
+        "Image": "https://media.valorant-api.com/playercards/cd5e4a23-4a0b-0f31-d87a-a1a2ec3301f4/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/cd5e4a23-4a0b-0f31-d87a-a1a2ec3301f4/largeart.png"
+    },
+    "1fb0bee0-49db-fb51-b090-bc834babdb2b": {
+        "Name": "Reyna ID Card",
+        "Image": "https://media.valorant-api.com/playercards/1fb0bee0-49db-fb51-b090-bc834babdb2b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1fb0bee0-49db-fb51-b090-bc834babdb2b/largeart.png"
+    },
+    "efaf392a-412d-0d4f-4413-ddbdb70d841d": {
+        "Name": "VALORANT Beta Card",
+        "Image": "https://media.valorant-api.com/playercards/efaf392a-412d-0d4f-4413-ddbdb70d841d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/efaf392a-412d-0d4f-4413-ddbdb70d841d/largeart.png"
+    },
+    "d29e6e34-44bd-21c8-f7bb-b0a73f267e50": {
+        "Name": "Beta Pioneer Card",
+        "Image": "https://media.valorant-api.com/playercards/d29e6e34-44bd-21c8-f7bb-b0a73f267e50/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d29e6e34-44bd-21c8-f7bb-b0a73f267e50/largeart.png"
+    },
+    "e6529e9c-4a2b-c31c-7252-e185a8ce4a04": {
+        "Name": "Beta Watch Card",
+        "Image": "https://media.valorant-api.com/playercards/e6529e9c-4a2b-c31c-7252-e185a8ce4a04/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e6529e9c-4a2b-c31c-7252-e185a8ce4a04/largeart.png"
+    },
+    "0d62fdfb-482e-2ddf-87eb-7ca7c88f222f": {
+        "Name": "VALORANT Gekko Card",
+        "Image": "https://media.valorant-api.com/playercards/0d62fdfb-482e-2ddf-87eb-7ca7c88f222f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0d62fdfb-482e-2ddf-87eb-7ca7c88f222f/largeart.png"
+    },
+    "35e11e04-46d3-9e5f-c2a5-e5beb9a59e97": {
+        "Name": "Out on a Limb Card",
+        "Image": "https://media.valorant-api.com/playercards/35e11e04-46d3-9e5f-c2a5-e5beb9a59e97/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/35e11e04-46d3-9e5f-c2a5-e5beb9a59e97/largeart.png"
+    },
+    "3d3e270e-4c89-ea1f-2bea-32a40a21dd75": {
+        "Name": "VALORANT Fade Card",
+        "Image": "https://media.valorant-api.com/playercards/3d3e270e-4c89-ea1f-2bea-32a40a21dd75/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3d3e270e-4c89-ea1f-2bea-32a40a21dd75/largeart.png"
+    },
+    "867e85c2-4f4e-797b-7c94-a0b403fe22f3": {
+        "Name": "Dark Tide Card",
+        "Image": "https://media.valorant-api.com/playercards/867e85c2-4f4e-797b-7c94-a0b403fe22f3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/867e85c2-4f4e-797b-7c94-a0b403fe22f3/largeart.png"
+    },
+    "e99656df-bbb0-4db4-867b-29a31cbe2e51": {
+        "Name": "VALORANT Breach Card",
+        "Image": "https://media.valorant-api.com/playercards/e99656df-bbb0-4db4-867b-29a31cbe2e51/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e99656df-bbb0-4db4-867b-29a31cbe2e51/largeart.png"
+    },
+    "e84c7c83-f430-4d6f-b14b-bfdccd80670a": {
+        "Name": "Big PayDay Card",
+        "Image": "https://media.valorant-api.com/playercards/e84c7c83-f430-4d6f-b14b-bfdccd80670a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e84c7c83-f430-4d6f-b14b-bfdccd80670a/largeart.png"
+    },
+    "9740ddf5-0f1e-46c3-be8c-01b319680278": {
+        "Name": "VALORANT Brimstone Card",
+        "Image": "https://media.valorant-api.com/playercards/9740ddf5-0f1e-46c3-be8c-01b319680278/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9740ddf5-0f1e-46c3-be8c-01b319680278/largeart.png"
+    },
+    "109ea8c8-b372-4fe0-be3c-a5c3e549b38a": {
+        "Name": "No One Left Behind Card",
+        "Image": "https://media.valorant-api.com/playercards/109ea8c8-b372-4fe0-be3c-a5c3e549b38a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/109ea8c8-b372-4fe0-be3c-a5c3e549b38a/largeart.png"
+    },
+    "58314922-434e-6ed6-0625-cc9e137f7ea0": {
+        "Name": "VALORANT Cypher Card",
+        "Image": "https://media.valorant-api.com/playercards/58314922-434e-6ed6-0625-cc9e137f7ea0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/58314922-434e-6ed6-0625-cc9e137f7ea0/largeart.png"
+    },
+    "87a0d13a-40e8-78fa-096e-06b41bceef2a": {
+        "Name": "Redeemer\u0027s Folly Card",
+        "Image": "https://media.valorant-api.com/playercards/87a0d13a-40e8-78fa-096e-06b41bceef2a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/87a0d13a-40e8-78fa-096e-06b41bceef2a/largeart.png"
+    },
+    "f31491e7-4642-ea8b-87fa-ed8fd73e44cf": {
+        "Name": "VALORANT Chamber Card",
+        "Image": "https://media.valorant-api.com/playercards/f31491e7-4642-ea8b-87fa-ed8fd73e44cf/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f31491e7-4642-ea8b-87fa-ed8fd73e44cf/largeart.png"
+    },
+    "944e2863-4c07-c6aa-923f-c99a7f00aa58": {
+        "Name": "Joint Venture Card",
+        "Image": "https://media.valorant-api.com/playercards/944e2863-4c07-c6aa-923f-c99a7f00aa58/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/944e2863-4c07-c6aa-923f-c99a7f00aa58/largeart.png"
+    },
+    "bc4443d5-449f-b5eb-a179-4c9ff332294b": {
+        "Name": "VALORANT KAY/O Card",
+        "Image": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/largeart.png"
+    },
+    "c86953ca-4c94-c0f7-fd91-c19e03ff2b9f": {
+        "Name": "Memory Log Card",
+        "Image": "https://media.valorant-api.com/playercards/c86953ca-4c94-c0f7-fd91-c19e03ff2b9f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c86953ca-4c94-c0f7-fd91-c19e03ff2b9f/largeart.png"
+    },
+    "1f28ac65-411d-619a-ed18-5cafda3acba7": {
+        "Name": "VALORANT Skye Card",
+        "Image": "https://media.valorant-api.com/playercards/1f28ac65-411d-619a-ed18-5cafda3acba7/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1f28ac65-411d-619a-ed18-5cafda3acba7/largeart.png"
+    },
+    "3be2322e-4464-66ec-b6ce-c0875f543ee6": {
+        "Name": "The Great Reclaimer Card",
+        "Image": "https://media.valorant-api.com/playercards/3be2322e-4464-66ec-b6ce-c0875f543ee6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3be2322e-4464-66ec-b6ce-c0875f543ee6/largeart.png"
+    },
+    "ab5a453a-f726-4e04-b277-f30d56a8b152": {
+        "Name": "VALORANT Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/ab5a453a-f726-4e04-b277-f30d56a8b152/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ab5a453a-f726-4e04-b277-f30d56a8b152/largeart.png"
+    },
+    "24e9c88c-4ee1-82fc-2048-bb8942f2147d": {
+        "Name": "Mirrored Edge Card",
+        "Image": "https://media.valorant-api.com/playercards/24e9c88c-4ee1-82fc-2048-bb8942f2147d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/24e9c88c-4ee1-82fc-2048-bb8942f2147d/largeart.png"
+    },
+    "fdf9018a-4a1d-fdfd-7553-009a31c612c5": {
+        "Name": "N\u00E4chtelang Card",
+        "Image": "https://media.valorant-api.com/playercards/fdf9018a-4a1d-fdfd-7553-009a31c612c5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fdf9018a-4a1d-fdfd-7553-009a31c612c5/largeart.png"
+    },
+    "e9021053-495a-e500-9f57-b59f2f94d01b": {
+        "Name": "VALORANT Killjoy Card",
+        "Image": "https://media.valorant-api.com/playercards/e9021053-495a-e500-9f57-b59f2f94d01b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e9021053-495a-e500-9f57-b59f2f94d01b/largeart.png"
+    },
+    "518eabc6-406d-1c71-af64-d7acfc985125": {
+        "Name": "VALORANT Harbor Card",
+        "Image": "https://media.valorant-api.com/playercards/518eabc6-406d-1c71-af64-d7acfc985125/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/518eabc6-406d-1c71-af64-d7acfc985125/largeart.png"
+    },
+    "37b91851-4ebd-c871-c943-87aefb75ae7d": {
+        "Name": "Wake of Betrayal Card",
+        "Image": "https://media.valorant-api.com/playercards/37b91851-4ebd-c871-c943-87aefb75ae7d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/37b91851-4ebd-c871-c943-87aefb75ae7d/largeart.png"
+    },
+    "504f38e4-4874-845c-ccb6-a3aec7a3a1eb": {
+        "Name": "VALORANT Omen Card",
+        "Image": "https://media.valorant-api.com/playercards/504f38e4-4874-845c-ccb6-a3aec7a3a1eb/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/504f38e4-4874-845c-ccb6-a3aec7a3a1eb/largeart.png"
+    },
+    "0166f094-4274-87c3-69e6-368171133181": {
+        "Name": "What\u0027s Another Death Card",
+        "Image": "https://media.valorant-api.com/playercards/0166f094-4274-87c3-69e6-368171133181/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0166f094-4274-87c3-69e6-368171133181/largeart.png"
+    },
+    "ba3f6dea-9040-4014-b44e-2a856e030f8f": {
+        "Name": "VALORANT Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/ba3f6dea-9040-4014-b44e-2a856e030f8f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ba3f6dea-9040-4014-b44e-2a856e030f8f/largeart.png"
+    },
+    "7c7becb5-a6b4-4b48-ad20-5a816fbc5750": {
+        "Name": "Firestarter Card",
+        "Image": "https://media.valorant-api.com/playercards/7c7becb5-a6b4-4b48-ad20-5a816fbc5750/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7c7becb5-a6b4-4b48-ad20-5a816fbc5750/largeart.png"
+    },
+    "fbe4935e-421d-4d5d-9ea8-3fb5218d1d1d": {
+        "Name": "VALORANT Raze Card",
+        "Image": "https://media.valorant-api.com/playercards/fbe4935e-421d-4d5d-9ea8-3fb5218d1d1d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fbe4935e-421d-4d5d-9ea8-3fb5218d1d1d/largeart.png"
+    },
+    "3c253e84-4ba8-8892-4c6e-7ba93cfc3d6e": {
+        "Name": "Rising up Card",
+        "Image": "https://media.valorant-api.com/playercards/3c253e84-4ba8-8892-4c6e-7ba93cfc3d6e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3c253e84-4ba8-8892-4c6e-7ba93cfc3d6e/largeart.png"
+    },
+    "e9dcc215-4b83-90e4-ba3b-4f8d32568eb6": {
+        "Name": "VALORANT Reyna Card",
+        "Image": "https://media.valorant-api.com/playercards/e9dcc215-4b83-90e4-ba3b-4f8d32568eb6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e9dcc215-4b83-90e4-ba3b-4f8d32568eb6/largeart.png"
+    },
+    "7d6da166-42fc-63b2-2913-91a1cd89571c": {
+        "Name": "Revenge for Life Card",
+        "Image": "https://media.valorant-api.com/playercards/7d6da166-42fc-63b2-2913-91a1cd89571c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7d6da166-42fc-63b2-2913-91a1cd89571c/largeart.png"
+    },
+    "f3978390-4493-e7ae-9aea-bc9fac8b44cd": {
+        "Name": "VALORANT Astra Card",
+        "Image": "https://media.valorant-api.com/playercards/f3978390-4493-e7ae-9aea-bc9fac8b44cd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f3978390-4493-e7ae-9aea-bc9fac8b44cd/largeart.png"
+    },
+    "8494e854-4ee7-88af-21d7-9388cc2babef": {
+        "Name": "Cosmic Origin Card",
+        "Image": "https://media.valorant-api.com/playercards/8494e854-4ee7-88af-21d7-9388cc2babef/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8494e854-4ee7-88af-21d7-9388cc2babef/largeart.png"
+    },
+    "910ace70-4d3b-3c53-2c55-5f9fa179caa8": {
+        "Name": "VALORANT Sage Card",
+        "Image": "https://media.valorant-api.com/playercards/910ace70-4d3b-3c53-2c55-5f9fa179caa8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/910ace70-4d3b-3c53-2c55-5f9fa179caa8/largeart.png"
+    },
+    "5a33d85c-42c9-9b75-44c3-e0a447a8a894": {
+        "Name": "Journey of Trials Card",
+        "Image": "https://media.valorant-api.com/playercards/5a33d85c-42c9-9b75-44c3-e0a447a8a894/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5a33d85c-42c9-9b75-44c3-e0a447a8a894/largeart.png"
+    },
+    "b03e3577-4f31-ae08-b9b7-4eb587fd13c3": {
+        "Name": "VALORANT Sova Card",
+        "Image": "https://media.valorant-api.com/playercards/b03e3577-4f31-ae08-b9b7-4eb587fd13c3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b03e3577-4f31-ae08-b9b7-4eb587fd13c3/largeart.png"
+    },
+    "91439dfc-4c11-2983-ff5b-0cb5730b7606": {
+        "Name": "Through The Looking Glass Card",
+        "Image": "https://media.valorant-api.com/playercards/91439dfc-4c11-2983-ff5b-0cb5730b7606/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/91439dfc-4c11-2983-ff5b-0cb5730b7606/largeart.png"
+    },
+    "cec2424b-483e-da2e-4369-f0a8822f96b5": {
+        "Name": "VALORANT Neon Card",
+        "Image": "https://media.valorant-api.com/playercards/cec2424b-483e-da2e-4369-f0a8822f96b5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/cec2424b-483e-da2e-4369-f0a8822f96b5/largeart.png"
+    },
+    "5b025468-4810-96e1-d19d-2ea35074586c": {
+        "Name": "Eye of the Storm Card",
+        "Image": "https://media.valorant-api.com/playercards/5b025468-4810-96e1-d19d-2ea35074586c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5b025468-4810-96e1-d19d-2ea35074586c/largeart.png"
+    },
+    "14a59263-4028-9a76-a65e-c8891387db0c": {
+        "Name": "VALORANT Yoru Card",
+        "Image": "https://media.valorant-api.com/playercards/14a59263-4028-9a76-a65e-c8891387db0c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/14a59263-4028-9a76-a65e-c8891387db0c/largeart.png"
+    },
+    "d0a804e8-4b3b-a693-70b1-e7936bdcd083": {
+        "Name": "Unmasked Lineage Card",
+        "Image": "https://media.valorant-api.com/playercards/d0a804e8-4b3b-a693-70b1-e7936bdcd083/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d0a804e8-4b3b-a693-70b1-e7936bdcd083/largeart.png"
+    },
+    "2f7fd4ed-4b6b-b3fc-0658-18a58f61581b": {
+        "Name": "VALORANT Viper Card",
+        "Image": "https://media.valorant-api.com/playercards/2f7fd4ed-4b6b-b3fc-0658-18a58f61581b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2f7fd4ed-4b6b-b3fc-0658-18a58f61581b/largeart.png"
+    },
+    "69265fa9-4c85-e728-d332-4a84857fd84e": {
+        "Name": "One Dark Night Card",
+        "Image": "https://media.valorant-api.com/playercards/69265fa9-4c85-e728-d332-4a84857fd84e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/69265fa9-4c85-e728-d332-4a84857fd84e/largeart.png"
+    },
+    "a40f0146-4420-645d-6d53-73a362900af0": {
+        "Name": "Ascent Card",
+        "Image": "https://media.valorant-api.com/playercards/a40f0146-4420-645d-6d53-73a362900af0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a40f0146-4420-645d-6d53-73a362900af0/largeart.png"
+    },
+    "d1c85a2e-450d-f7e0-6ee3-469295cf1951": {
+        "Name": "MMXX EP1 Card",
+        "Image": "https://media.valorant-api.com/playercards/d1c85a2e-450d-f7e0-6ee3-469295cf1951/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d1c85a2e-450d-f7e0-6ee3-469295cf1951/largeart.png"
+    },
+    "e6a07a97-4c48-421f-515e-288379f7a5be": {
+        "Name": "VALORANT Mascot Card",
+        "Image": "https://media.valorant-api.com/playercards/e6a07a97-4c48-421f-515e-288379f7a5be/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e6a07a97-4c48-421f-515e-288379f7a5be/largeart.png"
+    },
+    "3d1e445f-41c6-71a2-4d60-0790dbe97f64": {
+        "Name": "What Ancient Mystery Card",
+        "Image": "https://media.valorant-api.com/playercards/3d1e445f-41c6-71a2-4d60-0790dbe97f64/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3d1e445f-41c6-71a2-4d60-0790dbe97f64/largeart.png"
+    },
+    "d93ad22d-4db7-b6bc-5e9c-e5959bb9dd76": {
+        "Name": "Prime Card",
+        "Image": "https://media.valorant-api.com/playercards/d93ad22d-4db7-b6bc-5e9c-e5959bb9dd76/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d93ad22d-4db7-b6bc-5e9c-e5959bb9dd76/largeart.png"
+    },
+    "612cd02d-4294-ee2a-644c-a3ba3ddf8805": {
+        "Name": "New Recruit Card",
+        "Image": "https://media.valorant-api.com/playercards/612cd02d-4294-ee2a-644c-a3ba3ddf8805/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/612cd02d-4294-ee2a-644c-a3ba3ddf8805/largeart.png"
+    },
+    "52d88add-4269-97c1-fde3-36bcac1a436a": {
+        "Name": "Sovereign Card",
+        "Image": "https://media.valorant-api.com/playercards/52d88add-4269-97c1-fde3-36bcac1a436a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/52d88add-4269-97c1-fde3-36bcac1a436a/largeart.png"
+    },
+    "8b26fe6c-409e-6ce8-3dc1-50ae5a503805": {
+        "Name": "Ares Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/8b26fe6c-409e-6ce8-3dc1-50ae5a503805/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8b26fe6c-409e-6ce8-3dc1-50ae5a503805/largeart.png"
+    },
+    "20ca6c88-4079-8cb4-acec-5d9d1241b68f": {
+        "Name": "Epilogue: Infinity Card",
+        "Image": "https://media.valorant-api.com/playercards/20ca6c88-4079-8cb4-acec-5d9d1241b68f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/20ca6c88-4079-8cb4-acec-5d9d1241b68f/largeart.png"
+    },
+    "134fcefc-4f11-bfc1-ea7f-47a31e7fe8ef": {
+        "Name": "Chill-joy Card",
+        "Image": "https://media.valorant-api.com/playercards/134fcefc-4f11-bfc1-ea7f-47a31e7fe8ef/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/134fcefc-4f11-bfc1-ea7f-47a31e7fe8ef/largeart.png"
+    },
+    "4647e655-4fa0-c115-b09c-30a5e47e8979": {
+        "Name": "Radianite Paradox Card",
+        "Image": "https://media.valorant-api.com/playercards/4647e655-4fa0-c115-b09c-30a5e47e8979/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4647e655-4fa0-c115-b09c-30a5e47e8979/largeart.png"
+    },
+    "ca33f459-4b77-e1a3-6004-549c45f849e5": {
+        "Name": "Corporate Takeover Card",
+        "Image": "https://media.valorant-api.com/playercards/ca33f459-4b77-e1a3-6004-549c45f849e5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ca33f459-4b77-e1a3-6004-549c45f849e5/largeart.png"
+    },
+    "08704bf7-475c-753c-b5d9-c28765b28b84": {
+        "Name": "VERSUS // Omen \u002B Sage Card",
+        "Image": "https://media.valorant-api.com/playercards/08704bf7-475c-753c-b5d9-c28765b28b84/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/08704bf7-475c-753c-b5d9-c28765b28b84/largeart.png"
+    },
+    "ea210157-4595-8727-86ae-9490a08a955f": {
+        "Name": "Phantom Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/ea210157-4595-8727-86ae-9490a08a955f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ea210157-4595-8727-86ae-9490a08a955f/largeart.png"
+    },
+    "f2c971cf-4bb7-9f73-d3da-a0936ec0dabf": {
+        "Name": "Bridge Between Worlds Card",
+        "Image": "https://media.valorant-api.com/playercards/f2c971cf-4bb7-9f73-d3da-a0936ec0dabf/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f2c971cf-4bb7-9f73-d3da-a0936ec0dabf/largeart.png"
+    },
+    "356b2d53-4d61-623e-6591-bdad7a722215": {
+        "Name": "Shorty Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/356b2d53-4d61-623e-6591-bdad7a722215/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/356b2d53-4d61-623e-6591-bdad7a722215/largeart.png"
+    },
+    "c7e58b09-4b1f-ca2a-5ab6-daa6cab2fa6c": {
+        "Name": "Infinity Card",
+        "Image": "https://media.valorant-api.com/playercards/c7e58b09-4b1f-ca2a-5ab6-daa6cab2fa6c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c7e58b09-4b1f-ca2a-5ab6-daa6cab2fa6c/largeart.png"
+    },
+    "cafddd6a-46f5-c6a2-8e40-688f872b5b36": {
+        "Name": "Sproutling Card",
+        "Image": "https://media.valorant-api.com/playercards/cafddd6a-46f5-c6a2-8e40-688f872b5b36/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/cafddd6a-46f5-c6a2-8e40-688f872b5b36/largeart.png"
+    },
+    "e7690f71-4d6f-8a76-105a-2da97582c1a3": {
+        "Name": "VERSUS // Victory \u002B Defeat Card",
+        "Image": "https://media.valorant-api.com/playercards/e7690f71-4d6f-8a76-105a-2da97582c1a3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e7690f71-4d6f-8a76-105a-2da97582c1a3/largeart.png"
+    },
+    "915fbfc2-409c-2288-204e-aeb49a71557e": {
+        "Name": "Yoru ID Card",
+        "Image": "https://media.valorant-api.com/playercards/915fbfc2-409c-2288-204e-aeb49a71557e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/915fbfc2-409c-2288-204e-aeb49a71557e/largeart.png"
+    },
+    "ca69b4d8-4b0e-02f8-5bea-c3b629b9b128": {
+        "Name": "VERSUS // Bind \u002B Icebox Card",
+        "Image": "https://media.valorant-api.com/playercards/ca69b4d8-4b0e-02f8-5bea-c3b629b9b128/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ca69b4d8-4b0e-02f8-5bea-c3b629b9b128/largeart.png"
+    },
+    "60a4bcbe-4bec-48a9-b9e2-ba9ed637acb2": {
+        "Name": "Lost at Sea? Card",
+        "Image": "https://media.valorant-api.com/playercards/60a4bcbe-4bec-48a9-b9e2-ba9ed637acb2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/60a4bcbe-4bec-48a9-b9e2-ba9ed637acb2/largeart.png"
+    },
+    "863afcf3-486a-3c96-4c23-9eb00def70d5": {
+        "Name": "Bulldog Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/863afcf3-486a-3c96-4c23-9eb00def70d5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/863afcf3-486a-3c96-4c23-9eb00def70d5/largeart.png"
+    },
+    "f7350639-4d68-7573-e9d8-d4ae1ee0cc30": {
+        "Name": "VERSUS // Sova \u002B Cypher Card",
+        "Image": "https://media.valorant-api.com/playercards/f7350639-4d68-7573-e9d8-d4ae1ee0cc30/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f7350639-4d68-7573-e9d8-d4ae1ee0cc30/largeart.png"
+    },
+    "f1b5b626-4f4f-4100-cbde-e5aad4f05b5c": {
+        "Name": "VLT/R Schematic Card",
+        "Image": "https://media.valorant-api.com/playercards/f1b5b626-4f4f-4100-cbde-e5aad4f05b5c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f1b5b626-4f4f-4100-cbde-e5aad4f05b5c/largeart.png"
+    },
+    "7dc703c4-43f2-b5df-8f3b-34b14a08cd0b": {
+        "Name": "Frenzy Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/7dc703c4-43f2-b5df-8f3b-34b14a08cd0b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7dc703c4-43f2-b5df-8f3b-34b14a08cd0b/largeart.png"
+    },
+    "8dc65b32-4f6a-0725-aff9-babb80e05f41": {
+        "Name": "Good Job, Paul! Card",
+        "Image": "https://media.valorant-api.com/playercards/8dc65b32-4f6a-0725-aff9-babb80e05f41/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8dc65b32-4f6a-0725-aff9-babb80e05f41/largeart.png"
+    },
+    "442e72e8-466f-5f6b-147e-16afc188d4ed": {
+        "Name": "Epilogue: Good Job, Paul! Card",
+        "Image": "https://media.valorant-api.com/playercards/442e72e8-466f-5f6b-147e-16afc188d4ed/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/442e72e8-466f-5f6b-147e-16afc188d4ed/largeart.png"
+    },
+    "ae4fa3f0-4a82-64ad-4eeb-398c30e0d46b": {
+        "Name": "Marshal Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/ae4fa3f0-4a82-64ad-4eeb-398c30e0d46b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ae4fa3f0-4a82-64ad-4eeb-398c30e0d46b/largeart.png"
+    },
+    "4d3d6d63-45a6-7ecb-81de-5098329612c5": {
+        "Name": "Broken Mirrors Card",
+        "Image": "https://media.valorant-api.com/playercards/4d3d6d63-45a6-7ecb-81de-5098329612c5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4d3d6d63-45a6-7ecb-81de-5098329612c5/largeart.png"
+    },
+    "2a280896-4e81-c319-ffd3-6b8873042647": {
+        "Name": "POLYfrog Card",
+        "Image": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/largeart.png"
+    },
+    "11879d46-4007-174c-8cce-7ca6c87a5c29": {
+        "Name": "Astra ID Card",
+        "Image": "https://media.valorant-api.com/playercards/11879d46-4007-174c-8cce-7ca6c87a5c29/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/11879d46-4007-174c-8cce-7ca6c87a5c29/largeart.png"
+    },
+    "1a0a55c6-40fe-c28a-1e48-46a954a69029": {
+        "Name": "Sheriff Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/1a0a55c6-40fe-c28a-1e48-46a954a69029/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1a0a55c6-40fe-c28a-1e48-46a954a69029/largeart.png"
+    },
+    "3c112fe6-4685-d426-de5c-82817fdb8bde": {
+        "Name": "Mementos Pt. 1 Card",
+        "Image": "https://media.valorant-api.com/playercards/3c112fe6-4685-d426-de5c-82817fdb8bde/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3c112fe6-4685-d426-de5c-82817fdb8bde/largeart.png"
+    },
+    "d2270c89-46a7-f5c2-ada8-92b4d2b897ce": {
+        "Name": "Epilogue: Mementos Pt. 1 Card",
+        "Image": "https://media.valorant-api.com/playercards/d2270c89-46a7-f5c2-ada8-92b4d2b897ce/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d2270c89-46a7-f5c2-ada8-92b4d2b897ce/largeart.png"
+    },
+    "140c35f0-4136-5a9f-4ce5-fd8c65fe0b04": {
+        "Name": "Songsteel Card",
+        "Image": "https://media.valorant-api.com/playercards/140c35f0-4136-5a9f-4ce5-fd8c65fe0b04/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/140c35f0-4136-5a9f-4ce5-fd8c65fe0b04/largeart.png"
+    },
+    "4727101c-405c-e9eb-5cd6-638f0487dc76": {
+        "Name": "25\u00B0 N, 71\u00B0 W Card",
+        "Image": "https://media.valorant-api.com/playercards/4727101c-405c-e9eb-5cd6-638f0487dc76/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4727101c-405c-e9eb-5cd6-638f0487dc76/largeart.png"
+    },
+    "92c8a5c7-4ec3-5ce6-73c2-21937056cd77": {
+        "Name": "Haven Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/92c8a5c7-4ec3-5ce6-73c2-21937056cd77/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/92c8a5c7-4ec3-5ce6-73c2-21937056cd77/largeart.png"
+    },
+    "55b3141c-4ab5-c350-5f9e-bb83dd1f4e9a": {
+        "Name": "Paul\u0027s Pizza Party Card",
+        "Image": "https://media.valorant-api.com/playercards/55b3141c-4ab5-c350-5f9e-bb83dd1f4e9a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/55b3141c-4ab5-c350-5f9e-bb83dd1f4e9a/largeart.png"
+    },
+    "fd4d518f-4760-33b8-7265-9794ceadba16": {
+        "Name": "Knife Fight Card",
+        "Image": "https://media.valorant-api.com/playercards/fd4d518f-4760-33b8-7265-9794ceadba16/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fd4d518f-4760-33b8-7265-9794ceadba16/largeart.png"
+    },
+    "9c764c2e-4172-5301-c251-ea9c07155672": {
+        "Name": "Lanterns Card",
+        "Image": "https://media.valorant-api.com/playercards/9c764c2e-4172-5301-c251-ea9c07155672/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9c764c2e-4172-5301-c251-ea9c07155672/largeart.png"
+    },
+    "3dbe8ac5-4ebb-823d-171c-8294e0ec6131": {
+        "Name": "Reboot Card",
+        "Image": "https://media.valorant-api.com/playercards/3dbe8ac5-4ebb-823d-171c-8294e0ec6131/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3dbe8ac5-4ebb-823d-171c-8294e0ec6131/largeart.png"
+    },
+    "05bfbe92-47c0-650c-7f46-2a8b8443dafc": {
+        "Name": "VERSUS // Reyna \u002B Viper Card",
+        "Image": "https://media.valorant-api.com/playercards/05bfbe92-47c0-650c-7f46-2a8b8443dafc/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/05bfbe92-47c0-650c-7f46-2a8b8443dafc/largeart.png"
+    },
+    "b5d420c1-44d8-350c-3f7a-5abb885b2f93": {
+        "Name": "Stinger Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/b5d420c1-44d8-350c-3f7a-5abb885b2f93/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b5d420c1-44d8-350c-3f7a-5abb885b2f93/largeart.png"
+    },
+    "baa94b4f-4aad-1211-bdcf-949c18178820": {
+        "Name": "Depths Card",
+        "Image": "https://media.valorant-api.com/playercards/baa94b4f-4aad-1211-bdcf-949c18178820/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/baa94b4f-4aad-1211-bdcf-949c18178820/largeart.png"
+    },
+    "2dfbdbf2-4f2d-328e-01d8-f5a6f0a92318": {
+        "Name": "Bloodline Card",
+        "Image": "https://media.valorant-api.com/playercards/2dfbdbf2-4f2d-328e-01d8-f5a6f0a92318/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2dfbdbf2-4f2d-328e-01d8-f5a6f0a92318/largeart.png"
+    },
+    "82b5cd0d-4b81-c336-2332-61a753849355": {
+        "Name": "Snowbirds Card",
+        "Image": "https://media.valorant-api.com/playercards/82b5cd0d-4b81-c336-2332-61a753849355/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/82b5cd0d-4b81-c336-2332-61a753849355/largeart.png"
+    },
+    "3cbaceaa-4ca7-cd30-8d0f-02b06cc3af70": {
+        "Name": "Dropoff Card",
+        "Image": "https://media.valorant-api.com/playercards/3cbaceaa-4ca7-cd30-8d0f-02b06cc3af70/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3cbaceaa-4ca7-cd30-8d0f-02b06cc3af70/largeart.png"
+    },
+    "1b6c643b-4f7e-aed8-88f6-f3932e682c14": {
+        "Name": "From The Ashes Card",
+        "Image": "https://media.valorant-api.com/playercards/1b6c643b-4f7e-aed8-88f6-f3932e682c14/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1b6c643b-4f7e-aed8-88f6-f3932e682c14/largeart.png"
+    },
+    "4004d33f-46c0-f4f9-9b55-f8b59f267406": {
+        "Name": "Force Card",
+        "Image": "https://media.valorant-api.com/playercards/4004d33f-46c0-f4f9-9b55-f8b59f267406/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4004d33f-46c0-f4f9-9b55-f8b59f267406/largeart.png"
+    },
+    "7c2a0fc5-4ae5-2fe7-e717-feb867443a97": {
+        "Name": "Best for Last Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/7c2a0fc5-4ae5-2fe7-e717-feb867443a97/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7c2a0fc5-4ae5-2fe7-e717-feb867443a97/largeart.png"
+    },
+    "3587169c-40df-80bb-5fcc-89802a1e23b4": {
+        "Name": "KAY/O ID Card",
+        "Image": "https://media.valorant-api.com/playercards/3587169c-40df-80bb-5fcc-89802a1e23b4/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3587169c-40df-80bb-5fcc-89802a1e23b4/largeart.png"
+    },
+    "a438763c-4720-5d58-0aa9-8c89578bc0ae": {
+        "Name": "Cosmic Connections Card",
+        "Image": "https://media.valorant-api.com/playercards/a438763c-4720-5d58-0aa9-8c89578bc0ae/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a438763c-4720-5d58-0aa9-8c89578bc0ae/largeart.png"
+    },
+    "24d76e1f-4f62-934b-f811-e096b105b92a": {
+        "Name": "Naked Op Card",
+        "Image": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/largeart.png"
+    },
+    "f78d39b2-4a43-35d6-488e-43a3619855c7": {
+        "Name": "Epilogue: Naked Op Card",
+        "Image": "https://media.valorant-api.com/playercards/f78d39b2-4a43-35d6-488e-43a3619855c7/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f78d39b2-4a43-35d6-488e-43a3619855c7/largeart.png"
+    },
+    "418ec760-480a-9ac3-3bc1-4c8779a36471": {
+        "Name": "Roti Boatie Card",
+        "Image": "https://media.valorant-api.com/playercards/418ec760-480a-9ac3-3bc1-4c8779a36471/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/418ec760-480a-9ac3-3bc1-4c8779a36471/largeart.png"
+    },
+    "f8b2b219-487a-e93c-8b52-569d979e5c2d": {
+        "Name": "Save Card",
+        "Image": "https://media.valorant-api.com/playercards/f8b2b219-487a-e93c-8b52-569d979e5c2d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f8b2b219-487a-e93c-8b52-569d979e5c2d/largeart.png"
+    },
+    "3c73f0b6-4b96-4067-fbc5-2590699657dd": {
+        "Name": "Feel the Rush Card",
+        "Image": "https://media.valorant-api.com/playercards/3c73f0b6-4b96-4067-fbc5-2590699657dd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3c73f0b6-4b96-4067-fbc5-2590699657dd/largeart.png"
+    },
+    "4783e1f5-4132-d19f-01d8-a08edccf44be": {
+        "Name": "Testing Grounds Card",
+        "Image": "https://media.valorant-api.com/playercards/4783e1f5-4132-d19f-01d8-a08edccf44be/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4783e1f5-4132-d19f-01d8-a08edccf44be/largeart.png"
+    },
+    "4137dae5-4934-dcf5-36f3-d58f45f063c2": {
+        "Name": "Ascent Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/4137dae5-4934-dcf5-36f3-d58f45f063c2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4137dae5-4934-dcf5-36f3-d58f45f063c2/largeart.png"
+    },
+    "31f30148-4c4b-397f-adfd-008de1072104": {
+        "Name": "Taking Note Card",
+        "Image": "https://media.valorant-api.com/playercards/31f30148-4c4b-397f-adfd-008de1072104/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/31f30148-4c4b-397f-adfd-008de1072104/largeart.png"
+    },
+    "871f4295-409e-0113-b496-ea9a9b1c4484": {
+        "Name": "Escalation Card",
+        "Image": "https://media.valorant-api.com/playercards/871f4295-409e-0113-b496-ea9a9b1c4484/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/871f4295-409e-0113-b496-ea9a9b1c4484/largeart.png"
+    },
+    "35fc50fc-4af4-f00c-5a92-768fd3cc7257": {
+        "Name": "Falcon Firearms Card",
+        "Image": "https://media.valorant-api.com/playercards/35fc50fc-4af4-f00c-5a92-768fd3cc7257/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/35fc50fc-4af4-f00c-5a92-768fd3cc7257/largeart.png"
+    },
+    "ebaee08a-415b-eafb-f082-8386a31b8899": {
+        "Name": "Rainfall Card",
+        "Image": "https://media.valorant-api.com/playercards/ebaee08a-415b-eafb-f082-8386a31b8899/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ebaee08a-415b-eafb-f082-8386a31b8899/largeart.png"
+    },
+    "10e96429-45c2-bdfd-b8af-738853690d63": {
+        "Name": "Manifest Elegance Card",
+        "Image": "https://media.valorant-api.com/playercards/10e96429-45c2-bdfd-b8af-738853690d63/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/10e96429-45c2-bdfd-b8af-738853690d63/largeart.png"
+    },
+    "aaad6093-4d27-c053-c53b-9c8a657338d1": {
+        "Name": "Versus // Phoenix \u002B Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/aaad6093-4d27-c053-c53b-9c8a657338d1/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/aaad6093-4d27-c053-c53b-9c8a657338d1/largeart.png"
+    },
+    "0c32a7a9-4661-cfbe-7c55-3880b0231a08": {
+        "Name": "Artisan Card",
+        "Image": "https://media.valorant-api.com/playercards/0c32a7a9-4661-cfbe-7c55-3880b0231a08/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0c32a7a9-4661-cfbe-7c55-3880b0231a08/largeart.png"
+    },
+    "83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0": {
+        "Name": "Unstoppable // Reyna Card",
+        "Image": "https://media.valorant-api.com/playercards/83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0/largeart.png"
+    },
+    "55a41308-4fa5-4c3a-afda-86a61ef7ee41": {
+        "Name": "100% Aimbot Card",
+        "Image": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/largeart.png"
+    },
+    "fd303868-4689-e5fb-a873-2fbf7946e96e": {
+        "Name": "Skin Bait Card",
+        "Image": "https://media.valorant-api.com/playercards/fd303868-4689-e5fb-a873-2fbf7946e96e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fd303868-4689-e5fb-a873-2fbf7946e96e/largeart.png"
+    },
+    "ac838a07-4a2a-f7ca-58b8-f6b1372769e9": {
+        "Name": "Epilogue: Skin Bait Card",
+        "Image": "https://media.valorant-api.com/playercards/ac838a07-4a2a-f7ca-58b8-f6b1372769e9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ac838a07-4a2a-f7ca-58b8-f6b1372769e9/largeart.png"
+    },
+    "8216a64c-4635-9782-4003-17b1b1febce7": {
+        "Name": "Teknika Firearms Card",
+        "Image": "https://media.valorant-api.com/playercards/8216a64c-4635-9782-4003-17b1b1febce7/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8216a64c-4635-9782-4003-17b1b1febce7/largeart.png"
+    },
+    "f3a3d5d6-4005-58f7-8a87-e5b489b2db70": {
+        "Name": "On Cooldown Card",
+        "Image": "https://media.valorant-api.com/playercards/f3a3d5d6-4005-58f7-8a87-e5b489b2db70/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f3a3d5d6-4005-58f7-8a87-e5b489b2db70/largeart.png"
+    },
+    "aa7261e8-49b3-a489-d23f-39b935122f09": {
+        "Name": "Living The Nightmare Card",
+        "Image": "https://media.valorant-api.com/playercards/aa7261e8-49b3-a489-d23f-39b935122f09/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/aa7261e8-49b3-a489-d23f-39b935122f09/largeart.png"
+    },
+    "f126d573-468e-a790-2c31-228bb651fa79": {
+        "Name": "Live Wire Card",
+        "Image": "https://media.valorant-api.com/playercards/f126d573-468e-a790-2c31-228bb651fa79/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f126d573-468e-a790-2c31-228bb651fa79/largeart.png"
+    },
+    "3fb00aef-42de-dd97-8a85-69b127437e8d": {
+        "Name": "Kingdoms Divided Card",
+        "Image": "https://media.valorant-api.com/playercards/3fb00aef-42de-dd97-8a85-69b127437e8d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3fb00aef-42de-dd97-8a85-69b127437e8d/largeart.png"
+    },
+    "c59b3a9b-467b-54b7-3e4d-a0a3107cbefe": {
+        "Name": "Chamber ID Card",
+        "Image": "https://media.valorant-api.com/playercards/c59b3a9b-467b-54b7-3e4d-a0a3107cbefe/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c59b3a9b-467b-54b7-3e4d-a0a3107cbefe/largeart.png"
+    },
+    "89fdd50e-439b-ebeb-0ef2-af8271550943": {
+        "Name": "Goldwing Card",
+        "Image": "https://media.valorant-api.com/playercards/89fdd50e-439b-ebeb-0ef2-af8271550943/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/89fdd50e-439b-ebeb-0ef2-af8271550943/largeart.png"
+    },
+    "1e3fcf2b-44f9-3565-22af-2380d8149329": {
+        "Name": "Versus // KAY/O \u002B Brimstone Card",
+        "Image": "https://media.valorant-api.com/playercards/1e3fcf2b-44f9-3565-22af-2380d8149329/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1e3fcf2b-44f9-3565-22af-2380d8149329/largeart.png"
+    },
+    "89aab939-4035-ea86-831d-c7964690be09": {
+        "Name": "Kodiak Steel Card",
+        "Image": "https://media.valorant-api.com/playercards/89aab939-4035-ea86-831d-c7964690be09/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/89aab939-4035-ea86-831d-c7964690be09/largeart.png"
+    },
+    "5488fcd7-41d5-0890-e90a-8d9099807d9b": {
+        "Name": "Genesis Card",
+        "Image": "https://media.valorant-api.com/playercards/5488fcd7-41d5-0890-e90a-8d9099807d9b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5488fcd7-41d5-0890-e90a-8d9099807d9b/largeart.png"
+    },
+    "0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1": {
+        "Name": "Downtime // Omen Card",
+        "Image": "https://media.valorant-api.com/playercards/0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1/largeart.png"
+    },
+    "7b240a91-4925-8bb6-7812-60b49543e145": {
+        "Name": "Epilogue: Downtime // Omen Card",
+        "Image": "https://media.valorant-api.com/playercards/7b240a91-4925-8bb6-7812-60b49543e145/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7b240a91-4925-8bb6-7812-60b49543e145/largeart.png"
+    },
+    "b7880750-49f6-9623-fc0d-779f0e88fedb": {
+        "Name": "Unstoppable // Viper Card",
+        "Image": "https://media.valorant-api.com/playercards/b7880750-49f6-9623-fc0d-779f0e88fedb/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b7880750-49f6-9623-fc0d-779f0e88fedb/largeart.png"
+    },
+    "a60742e6-418c-365a-9133-7c8e08720bfa": {
+        "Name": "Crying Sage Card",
+        "Image": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/largeart.png"
+    },
+    "9e337954-41e5-8ea9-dee9-10a1e0101d4a": {
+        "Name": "Bind Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/9e337954-41e5-8ea9-dee9-10a1e0101d4a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9e337954-41e5-8ea9-dee9-10a1e0101d4a/largeart.png"
+    },
+    "bb6ae873-43ec-efb4-3ea6-93ac00a82d4e": {
+        "Name": "Be Mine: Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/bb6ae873-43ec-efb4-3ea6-93ac00a82d4e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/bb6ae873-43ec-efb4-3ea6-93ac00a82d4e/largeart.png"
+    },
+    "f0ed2c16-4152-9dd9-694b-19873d209492": {
+        "Name": "Be Mine: Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/f0ed2c16-4152-9dd9-694b-19873d209492/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f0ed2c16-4152-9dd9-694b-19873d209492/largeart.png"
+    },
+    "8c93837c-435d-d19d-447f-3e8dcd1a6bb8": {
+        "Name": "Be Mine: Sova Card",
+        "Image": "https://media.valorant-api.com/playercards/8c93837c-435d-d19d-447f-3e8dcd1a6bb8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8c93837c-435d-d19d-447f-3e8dcd1a6bb8/largeart.png"
+    },
+    "514ea59a-448c-ba70-9ebb-5faff372b6e2": {
+        "Name": "Valentine\u0027s Tactics Card",
+        "Image": "https://media.valorant-api.com/playercards/514ea59a-448c-ba70-9ebb-5faff372b6e2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/514ea59a-448c-ba70-9ebb-5faff372b6e2/largeart.png"
+    },
+    "2e2ca053-43d0-e2ed-8def-8e9e3fa366cb": {
+        "Name": "Velocity Card",
+        "Image": "https://media.valorant-api.com/playercards/2e2ca053-43d0-e2ed-8def-8e9e3fa366cb/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2e2ca053-43d0-e2ed-8def-8e9e3fa366cb/largeart.png"
+    },
+    "e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55": {
+        "Name": "Operation: Fracture Card",
+        "Image": "https://media.valorant-api.com/playercards/e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55/largeart.png"
+    },
+    "4f378427-4574-e06d-190e-88b9db420337": {
+        "Name": "Distracted Duelist Card",
+        "Image": "https://media.valorant-api.com/playercards/4f378427-4574-e06d-190e-88b9db420337/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4f378427-4574-e06d-190e-88b9db420337/largeart.png"
+    },
+    "992b83fb-4947-5bb3-a080-ebbfff029ca9": {
+        "Name": "Hydrodip Card",
+        "Image": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/largeart.png"
+    },
+    "7b3bfdba-4340-7e05-ef75-17873ed03902": {
+        "Name": "Neon ID Card",
+        "Image": "https://media.valorant-api.com/playercards/7b3bfdba-4340-7e05-ef75-17873ed03902/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7b3bfdba-4340-7e05-ef75-17873ed03902/largeart.png"
+    },
+    "16ac5364-471a-fd97-5a44-8ab9c48c7c84": {
+        "Name": "Unstoppable // Sage Card",
+        "Image": "https://media.valorant-api.com/playercards/16ac5364-471a-fd97-5a44-8ab9c48c7c84/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/16ac5364-471a-fd97-5a44-8ab9c48c7c84/largeart.png"
+    },
+    "382519d7-4422-d868-95ca-e9b3d9825934": {
+        "Name": "PlayZilla Rubber Ducky Card",
+        "Image": "https://media.valorant-api.com/playercards/382519d7-4422-d868-95ca-e9b3d9825934/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/382519d7-4422-d868-95ca-e9b3d9825934/largeart.png"
+    },
+    "9ee85a55-4b94-e382-b8a8-f985a33c1cc2": {
+        "Name": "Epilogue: PlayZilla Rubber Ducky Card",
+        "Image": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/largeart.png"
+    },
+    "4df86707-4c99-a978-5a74-ba92f157a33c": {
+        "Name": "Home Again // Brimstone Card",
+        "Image": "https://media.valorant-api.com/playercards/4df86707-4c99-a978-5a74-ba92f157a33c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4df86707-4c99-a978-5a74-ba92f157a33c/largeart.png"
+    },
+    "52d31ae9-466a-77c5-4cc3-b1b1b88422b8": {
+        "Name": "Home Again // Chamber Card",
+        "Image": "https://media.valorant-api.com/playercards/52d31ae9-466a-77c5-4cc3-b1b1b88422b8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/52d31ae9-466a-77c5-4cc3-b1b1b88422b8/largeart.png"
+    },
+    "e03ef5d2-4ac2-07f7-c14b-b4bd40c4bf40": {
+        "Name": "Home Again // Cypher Card",
+        "Image": "https://media.valorant-api.com/playercards/e03ef5d2-4ac2-07f7-c14b-b4bd40c4bf40/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e03ef5d2-4ac2-07f7-c14b-b4bd40c4bf40/largeart.png"
+    },
+    "6a82ba95-436f-9d3c-8710-d3a9e09e8445": {
+        "Name": "Home Again // Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/6a82ba95-436f-9d3c-8710-d3a9e09e8445/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6a82ba95-436f-9d3c-8710-d3a9e09e8445/largeart.png"
+    },
+    "7d7bbcea-4601-5629-7134-a2aaf547ccbd": {
+        "Name": "Divine Swine Card",
+        "Image": "https://media.valorant-api.com/playercards/7d7bbcea-4601-5629-7134-a2aaf547ccbd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7d7bbcea-4601-5629-7134-a2aaf547ccbd/largeart.png"
+    },
+    "d1794848-4323-429a-269a-83b81a87a4c6": {
+        "Name": "Hush Card",
+        "Image": "https://media.valorant-api.com/playercards/d1794848-4323-429a-269a-83b81a87a4c6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d1794848-4323-429a-269a-83b81a87a4c6/largeart.png"
+    },
+    "22a21e81-4b57-061f-d56f-aea3c4a8bf33": {
+        "Name": "Home Again // Reyna Card",
+        "Image": "https://media.valorant-api.com/playercards/22a21e81-4b57-061f-d56f-aea3c4a8bf33/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/22a21e81-4b57-061f-d56f-aea3c4a8bf33/largeart.png"
+    },
+    "e70e685b-4e42-e14b-dbfc-68957b3b914a": {
+        "Name": "Lycan\u0027s Bane Card",
+        "Image": "https://media.valorant-api.com/playercards/e70e685b-4e42-e14b-dbfc-68957b3b914a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e70e685b-4e42-e14b-dbfc-68957b3b914a/largeart.png"
+    },
+    "eac64718-4956-31ef-2c95-8b85e93d7fcc": {
+        "Name": "Home Again // Skye Card",
+        "Image": "https://media.valorant-api.com/playercards/eac64718-4956-31ef-2c95-8b85e93d7fcc/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/eac64718-4956-31ef-2c95-8b85e93d7fcc/largeart.png"
+    },
+    "41cca792-4496-6b28-3dcc-a4ae99df7ce0": {
+        "Name": "Bulwark Armory Card",
+        "Image": "https://media.valorant-api.com/playercards/41cca792-4496-6b28-3dcc-a4ae99df7ce0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/41cca792-4496-6b28-3dcc-a4ae99df7ce0/largeart.png"
+    },
+    "fcceda12-4815-17d0-ffc1-698aac40777a": {
+        "Name": "#SAVEWIDEJOY Card",
+        "Image": "https://media.valorant-api.com/playercards/fcceda12-4815-17d0-ffc1-698aac40777a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fcceda12-4815-17d0-ffc1-698aac40777a/largeart.png"
+    },
+    "31295d9d-459a-e3b4-79f7-3596bf7653dd": {
+        "Name": "Epilogue: #SAVEWIDEJOY Card",
+        "Image": "https://media.valorant-api.com/playercards/31295d9d-459a-e3b4-79f7-3596bf7653dd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/31295d9d-459a-e3b4-79f7-3596bf7653dd/largeart.png"
+    },
+    "d493dd78-4bbb-eab8-8256-2d9766de48e6": {
+        "Name": "Home Again // Yoru Card",
+        "Image": "https://media.valorant-api.com/playercards/d493dd78-4bbb-eab8-8256-2d9766de48e6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d493dd78-4bbb-eab8-8256-2d9766de48e6/largeart.png"
+    },
+    "fdef838a-40d1-9954-ad6d-588a7a8739f0": {
+        "Name": "Snake Bite Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/fdef838a-40d1-9954-ad6d-588a7a8739f0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fdef838a-40d1-9954-ad6d-588a7a8739f0/largeart.png"
+    },
+    "2dc2f8f9-4741-eff2-7684-868f8aee9974": {
+        "Name": "World Divided Card",
+        "Image": "https://media.valorant-api.com/playercards/2dc2f8f9-4741-eff2-7684-868f8aee9974/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2dc2f8f9-4741-eff2-7684-868f8aee9974/largeart.png"
+    },
+    "5d56c40f-4798-9385-45bd-b9889854e3b5": {
+        "Name": "Fade ID Card",
+        "Image": "https://media.valorant-api.com/playercards/5d56c40f-4798-9385-45bd-b9889854e3b5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5d56c40f-4798-9385-45bd-b9889854e3b5/largeart.png"
+    },
+    "cfd8d9e8-4984-21ed-00a6-53916619c68f": {
+        "Name": ".SYS Card",
+        "Image": "https://media.valorant-api.com/playercards/cfd8d9e8-4984-21ed-00a6-53916619c68f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/cfd8d9e8-4984-21ed-00a6-53916619c68f/largeart.png"
+    },
+    "5a99e70c-4df7-118c-4676-5588a79654ad": {
+        "Name": "Breeze Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/5a99e70c-4df7-118c-4676-5588a79654ad/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5a99e70c-4df7-118c-4676-5588a79654ad/largeart.png"
+    },
+    "6f39b789-4318-f79e-14e9-0a872f6ba6a2": {
+        "Name": "Defuse Denial Card",
+        "Image": "https://media.valorant-api.com/playercards/6f39b789-4318-f79e-14e9-0a872f6ba6a2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6f39b789-4318-f79e-14e9-0a872f6ba6a2/largeart.png"
+    },
+    "12216d1f-4f05-1600-feb1-aebf82a4bc13": {
+        "Name": "Unstoppable // Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/12216d1f-4f05-1600-feb1-aebf82a4bc13/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/12216d1f-4f05-1600-feb1-aebf82a4bc13/largeart.png"
+    },
+    "9e07cbfe-4af2-bb11-78e8-e0b9de09ea23": {
+        "Name": "Skin Shopping Card",
+        "Image": "https://media.valorant-api.com/playercards/9e07cbfe-4af2-bb11-78e8-e0b9de09ea23/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9e07cbfe-4af2-bb11-78e8-e0b9de09ea23/largeart.png"
+    },
+    "051e29eb-4a58-d0f6-d384-dea1fe95f0a5": {
+        "Name": "When Bunnies Attack Card",
+        "Image": "https://media.valorant-api.com/playercards/051e29eb-4a58-d0f6-d384-dea1fe95f0a5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/051e29eb-4a58-d0f6-d384-dea1fe95f0a5/largeart.png"
+    },
+    "ec50c37c-455a-ae63-353f-c399f36e55d6": {
+        "Name": "Penguin Precision Card",
+        "Image": "https://media.valorant-api.com/playercards/ec50c37c-455a-ae63-353f-c399f36e55d6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ec50c37c-455a-ae63-353f-c399f36e55d6/largeart.png"
+    },
+    "02c770d2-4234-9c57-51d8-a2a660241e7c": {
+        "Name": "Epilogue: Penguin Precision Card",
+        "Image": "https://media.valorant-api.com/playercards/02c770d2-4234-9c57-51d8-a2a660241e7c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/02c770d2-4234-9c57-51d8-a2a660241e7c/largeart.png"
+    },
+    "5b5e2e23-4fc1-e8fe-cbbb-23a18f9b21fa": {
+        "Name": "Warm Up // Maxbot Card",
+        "Image": "https://media.valorant-api.com/playercards/5b5e2e23-4fc1-e8fe-cbbb-23a18f9b21fa/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5b5e2e23-4fc1-e8fe-cbbb-23a18f9b21fa/largeart.png"
+    },
+    "6b2bf0c5-4bec-70f4-c63a-54b30a3c65bc": {
+        "Name": "Yellows On Rails Card",
+        "Image": "https://media.valorant-api.com/playercards/6b2bf0c5-4bec-70f4-c63a-54b30a3c65bc/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6b2bf0c5-4bec-70f4-c63a-54b30a3c65bc/largeart.png"
+    },
+    "8ba86bea-4bd3-69f9-658e-8a9fdc6e96a0": {
+        "Name": "Task Force 809 Card",
+        "Image": "https://media.valorant-api.com/playercards/8ba86bea-4bd3-69f9-658e-8a9fdc6e96a0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8ba86bea-4bd3-69f9-658e-8a9fdc6e96a0/largeart.png"
+    },
+    "024332e7-4074-e168-077d-808f25e469fb": {
+        "Name": "Owl Drone Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/024332e7-4074-e168-077d-808f25e469fb/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/024332e7-4074-e168-077d-808f25e469fb/largeart.png"
+    },
+    "b5cacbb5-4249-6f08-2fb5-67b5b9f0e425": {
+        "Name": "Enter the Duelists Card",
+        "Image": "https://media.valorant-api.com/playercards/b5cacbb5-4249-6f08-2fb5-67b5b9f0e425/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b5cacbb5-4249-6f08-2fb5-67b5b9f0e425/largeart.png"
+    },
+    "f33a64a0-40cf-6d1f-2eb0-55b81cf27f24": {
+        "Name": "Shimmer Card",
+        "Image": "https://media.valorant-api.com/playercards/f33a64a0-40cf-6d1f-2eb0-55b81cf27f24/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f33a64a0-40cf-6d1f-2eb0-55b81cf27f24/largeart.png"
+    },
+    "8b8c15ec-432a-85ab-b58b-9b918877e4f7": {
+        "Name": "Joke\u0027s Over Card",
+        "Image": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/largeart.png"
+    },
+    "fe5c922f-4a95-da66-9be9-e399678760f9": {
+        "Name": "Collector\u0027s Edition: KAY/O Card",
+        "Image": "https://media.valorant-api.com/playercards/fe5c922f-4a95-da66-9be9-e399678760f9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/fe5c922f-4a95-da66-9be9-e399678760f9/largeart.png"
+    },
+    "f7824992-4c5c-fe85-fe96-95b4d918410a": {
+        "Name": "I Am Everywhere Card",
+        "Image": "https://media.valorant-api.com/playercards/f7824992-4c5c-fe85-fe96-95b4d918410a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f7824992-4c5c-fe85-fe96-95b4d918410a/largeart.png"
+    },
+    "a9f2613c-4a0d-70f0-5f2c-09b5c0be1131": {
+        "Name": "Tactibunny Terror Card",
+        "Image": "https://media.valorant-api.com/playercards/a9f2613c-4a0d-70f0-5f2c-09b5c0be1131/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a9f2613c-4a0d-70f0-5f2c-09b5c0be1131/largeart.png"
+    },
+    "00cdb48d-4ebe-1977-2e4f-6296cdb57c4f": {
+        "Name": "PlayZilla Tactibear Card",
+        "Image": "https://media.valorant-api.com/playercards/00cdb48d-4ebe-1977-2e4f-6296cdb57c4f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/00cdb48d-4ebe-1977-2e4f-6296cdb57c4f/largeart.png"
+    },
+    "a2bc068a-44ed-9be6-cd77-c3a193e62e68": {
+        "Name": "Epilogue: PlayZilla Tactibear Card",
+        "Image": "https://media.valorant-api.com/playercards/a2bc068a-44ed-9be6-cd77-c3a193e62e68/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a2bc068a-44ed-9be6-cd77-c3a193e62e68/largeart.png"
+    },
+    "b5314b3f-4532-9e41-bc1f-13954a4c6829": {
+        "Name": "Unstoppable // Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/b5314b3f-4532-9e41-bc1f-13954a4c6829/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b5314b3f-4532-9e41-bc1f-13954a4c6829/largeart.png"
+    },
+    "95b505f7-45b6-d921-a036-b0a087d2dda4": {
+        "Name": "Operation: Vacation Card",
+        "Image": "https://media.valorant-api.com/playercards/95b505f7-45b6-d921-a036-b0a087d2dda4/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/95b505f7-45b6-d921-a036-b0a087d2dda4/largeart.png"
+    },
+    "cdd5bd6e-44dd-ba94-f055-ac8a6e69472a": {
+        "Name": "Tactical Knife Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/cdd5bd6e-44dd-ba94-f055-ac8a6e69472a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/cdd5bd6e-44dd-ba94-f055-ac8a6e69472a/largeart.png"
+    },
+    "a0fbe1d5-40d7-5714-0cc9-f1ab15a46773": {
+        "Name": "Friendly Fire Card",
+        "Image": "https://media.valorant-api.com/playercards/a0fbe1d5-40d7-5714-0cc9-f1ab15a46773/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a0fbe1d5-40d7-5714-0cc9-f1ab15a46773/largeart.png"
+    },
+    "64640593-4a73-68f0-890f-daa9db0429fc": {
+        "Name": "Legion Card",
+        "Image": "https://media.valorant-api.com/playercards/64640593-4a73-68f0-890f-daa9db0429fc/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/64640593-4a73-68f0-890f-daa9db0429fc/largeart.png"
+    },
+    "f4361ec4-4e77-48c1-fa4f-b99b03134f96": {
+        "Name": "Shadow Walker Card",
+        "Image": "https://media.valorant-api.com/playercards/f4361ec4-4e77-48c1-fa4f-b99b03134f96/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f4361ec4-4e77-48c1-fa4f-b99b03134f96/largeart.png"
+    },
+    "1afb381e-430e-a3f3-e05a-9685de69a2f3": {
+        "Name": "Turret Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/1afb381e-430e-a3f3-e05a-9685de69a2f3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1afb381e-430e-a3f3-e05a-9685de69a2f3/largeart.png"
+    },
+    "f07f7e19-4478-3bdc-0c09-cf8158aa5426": {
+        "Name": "Piedra del Sol Card",
+        "Image": "https://media.valorant-api.com/playercards/f07f7e19-4478-3bdc-0c09-cf8158aa5426/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f07f7e19-4478-3bdc-0c09-cf8158aa5426/largeart.png"
+    },
+    "36377e6d-4be8-a585-f4a6-4fbdbb697324": {
+        "Name": "Spike Showdown Card",
+        "Image": "https://media.valorant-api.com/playercards/36377e6d-4be8-a585-f4a6-4fbdbb697324/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/36377e6d-4be8-a585-f4a6-4fbdbb697324/largeart.png"
+    },
+    "5dd51647-40d3-a687-d293-f9a0b81c5ccf": {
+        "Name": "Meet Your Main Card",
+        "Image": "https://media.valorant-api.com/playercards/5dd51647-40d3-a687-d293-f9a0b81c5ccf/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5dd51647-40d3-a687-d293-f9a0b81c5ccf/largeart.png"
+    },
+    "829e557b-460a-c877-8de7-01b2306cafa6": {
+        "Name": "Epilogue: KAY/O K.O. Card",
+        "Image": "https://media.valorant-api.com/playercards/829e557b-460a-c877-8de7-01b2306cafa6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/829e557b-460a-c877-8de7-01b2306cafa6/largeart.png"
+    },
+    "33a69865-4952-86f9-a2c0-b5880bc0af92": {
+        "Name": "KAY/O K.O. Card",
+        "Image": "https://media.valorant-api.com/playercards/33a69865-4952-86f9-a2c0-b5880bc0af92/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/33a69865-4952-86f9-a2c0-b5880bc0af92/largeart.png"
+    },
+    "78dfe320-4b23-c39b-06e7-1e9c5cc7c452": {
+        "Name": "Garden of Heroes: Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/78dfe320-4b23-c39b-06e7-1e9c5cc7c452/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/78dfe320-4b23-c39b-06e7-1e9c5cc7c452/largeart.png"
+    },
+    "c9a3b703-4581-7c8d-66ad-ea887c55aa82": {
+        "Name": "Garden of Heroes: Omen Card",
+        "Image": "https://media.valorant-api.com/playercards/c9a3b703-4581-7c8d-66ad-ea887c55aa82/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c9a3b703-4581-7c8d-66ad-ea887c55aa82/largeart.png"
+    },
+    "63433abd-482f-9b02-8d60-45a3a47a3b57": {
+        "Name": "Garden of Heroes: Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/63433abd-482f-9b02-8d60-45a3a47a3b57/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/63433abd-482f-9b02-8d60-45a3a47a3b57/largeart.png"
+    },
+    "b9e318c3-4590-d095-0218-ac92e1405459": {
+        "Name": "Garden of Heroes: Sage Card",
+        "Image": "https://media.valorant-api.com/playercards/b9e318c3-4590-d095-0218-ac92e1405459/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b9e318c3-4590-d095-0218-ac92e1405459/largeart.png"
+    },
+    "2de95d33-4433-e5dd-0247-0b9994248ff9": {
+        "Name": "Pearl District: Sanctuary Card",
+        "Image": "https://media.valorant-api.com/playercards/2de95d33-4433-e5dd-0247-0b9994248ff9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2de95d33-4433-e5dd-0247-0b9994248ff9/largeart.png"
+    },
+    "f5695be8-44a6-b9ac-d69a-119ab97870c6": {
+        "Name": "Pearl District: Seascape Card",
+        "Image": "https://media.valorant-api.com/playercards/f5695be8-44a6-b9ac-d69a-119ab97870c6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f5695be8-44a6-b9ac-d69a-119ab97870c6/largeart.png"
+    },
+    "c0da1054-4900-5c84-bb8d-38a4e95a8ab2": {
+        "Name": "Rising Tide Card",
+        "Image": "https://media.valorant-api.com/playercards/c0da1054-4900-5c84-bb8d-38a4e95a8ab2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c0da1054-4900-5c84-bb8d-38a4e95a8ab2/largeart.png"
+    },
+    "0b637c4d-4761-c4ec-abf9-90a749139429": {
+        "Name": "Sneakerhead Card",
+        "Image": "https://media.valorant-api.com/playercards/0b637c4d-4761-c4ec-abf9-90a749139429/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0b637c4d-4761-c4ec-abf9-90a749139429/largeart.png"
+    },
+    "ba21deb2-4dce-38c7-904c-9db6033738e3": {
+        "Name": "Epilogue: Sneakerhead Card",
+        "Image": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/largeart.png"
+    },
+    "2ea5d141-4ba2-6fa9-a0b5-18a8f9a289e3": {
+        "Name": "Unearthed: The Gauntlet Card",
+        "Image": "https://media.valorant-api.com/playercards/2ea5d141-4ba2-6fa9-a0b5-18a8f9a289e3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2ea5d141-4ba2-6fa9-a0b5-18a8f9a289e3/largeart.png"
+    },
+    "b3cf378a-415c-d080-9847-a1b0f47def56": {
+        "Name": "Unearthed: The Bracelet Card",
+        "Image": "https://media.valorant-api.com/playercards/b3cf378a-415c-d080-9847-a1b0f47def56/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b3cf378a-415c-d080-9847-a1b0f47def56/largeart.png"
+    },
+    "65cbcfd7-4eeb-d935-ee1b-889c669a9db1": {
+        "Name": "Unearthed: The Mask Card",
+        "Image": "https://media.valorant-api.com/playercards/65cbcfd7-4eeb-d935-ee1b-889c669a9db1/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/65cbcfd7-4eeb-d935-ee1b-889c669a9db1/largeart.png"
+    },
+    "2550c4b9-4467-cf9b-f922-dbafae253fee": {
+        "Name": "Grand Designs Card",
+        "Image": "https://media.valorant-api.com/playercards/2550c4b9-4467-cf9b-f922-dbafae253fee/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2550c4b9-4467-cf9b-f922-dbafae253fee/largeart.png"
+    },
+    "56836d41-4fa5-6051-1c25-3f93b9675dce": {
+        "Name": "Rune Stone Card",
+        "Image": "https://media.valorant-api.com/playercards/56836d41-4fa5-6051-1c25-3f93b9675dce/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/56836d41-4fa5-6051-1c25-3f93b9675dce/largeart.png"
+    },
+    "76cfbd33-42ba-33b4-235c-de966683c9d2": {
+        "Name": "Written in the Stars: Sova Card",
+        "Image": "https://media.valorant-api.com/playercards/76cfbd33-42ba-33b4-235c-de966683c9d2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/76cfbd33-42ba-33b4-235c-de966683c9d2/largeart.png"
+    },
+    "a3c15b9a-4b60-def7-39a5-92a1158dae0c": {
+        "Name": "Icebox Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/a3c15b9a-4b60-def7-39a5-92a1158dae0c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a3c15b9a-4b60-def7-39a5-92a1158dae0c/largeart.png"
+    },
+    "a069bc40-499b-e94f-6b0c-3dae5ff048de": {
+        "Name": "Iridian Thorn Card",
+        "Image": "https://media.valorant-api.com/playercards/a069bc40-499b-e94f-6b0c-3dae5ff048de/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a069bc40-499b-e94f-6b0c-3dae5ff048de/largeart.png"
+    },
+    "7cf06550-432c-8840-f9c7-a6b71ee8521a": {
+        "Name": "Astral Conduit Card",
+        "Image": "https://media.valorant-api.com/playercards/7cf06550-432c-8840-f9c7-a6b71ee8521a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7cf06550-432c-8840-f9c7-a6b71ee8521a/largeart.png"
+    },
+    "eba5be7e-4ec7-753b-8678-fa88da1e46ab": {
+        "Name": "Unstoppable // Omen Card",
+        "Image": "https://media.valorant-api.com/playercards/eba5be7e-4ec7-753b-8678-fa88da1e46ab/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/eba5be7e-4ec7-753b-8678-fa88da1e46ab/largeart.png"
+    },
+    "a8880f4d-46d0-67ea-9013-4f9b757b3794": {
+        "Name": "Moonlit Chase Card",
+        "Image": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/largeart.png"
+    },
+    "bc5312cc-417c-99cd-2b65-fe8ada60950b": {
+        "Name": "Tight-Knit Card",
+        "Image": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/largeart.png"
+    },
+    "ea9b0955-4b61-aa64-1c68-5398b59c721e": {
+        "Name": "Venturi Card",
+        "Image": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/largeart.png"
+    },
+    "c5d4cd0b-49fa-0b9c-55c7-9b828f83413f": {
+        "Name": "Cat and Mouse Card",
+        "Image": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/largeart.png"
+    },
+    "bdc0c02c-441c-8ebc-ec5e-27bff0888ae0": {
+        "Name": "Late Night Snack Card",
+        "Image": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/largeart.png"
+    },
+    "6d30599a-4a4a-5dc0-043e-0aaf39bb83ad": {
+        "Name": "Scars that Bond Card",
+        "Image": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/largeart.png"
+    },
+    "1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe": {
+        "Name": "9 Lives Card",
+        "Image": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/largeart.png"
+    },
+    "59ed0836-4bd9-95a5-14c1-ed87ed786d06": {
+        "Name": "Playzilla Dan Card",
+        "Image": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/largeart.png"
+    },
+    "ddfd99f7-4160-a417-0fce-ba8eb2af3976": {
+        "Name": "Ultimate Collector Card",
+        "Image": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/largeart.png"
+    },
+    "03958624-4e51-3309-a7b0-7c8af48802bb": {
+        "Name": "Epilogue: Ultimate Collector Card",
+        "Image": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/largeart.png"
+    },
+    "f09db5d0-42a0-6225-588d-e3b92ef956d5": {
+        "Name": "DUO // Field Command Card",
+        "Image": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/largeart.png"
+    },
+    "aeb4ce01-4781-9330-43cb-b991d1122c99": {
+        "Name": "Gridcrash Card",
+        "Image": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/largeart.png"
+    },
+    "aec1bd79-40f8-664f-c129-89ac42fec426": {
+        "Name": "Rift Rider Card",
+        "Image": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/largeart.png"
+    },
+    "72f9b137-41f1-ef95-853a-798212f064ee": {
+        "Name": "Commander Bruno Card",
+        "Image": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/largeart.png"
+    },
+    "73569eb5-4953-2b61-1923-919874420845": {
+        "Name": "Spycam Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/73569eb5-4953-2b61-1923-919874420845/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/73569eb5-4953-2b61-1923-919874420845/largeart.png"
+    },
+    "c4d3f2f0-4163-9ef7-19ca-35b4f447517f": {
+        "Name": "Epilogue: Setting Records Card",
+        "Image": "https://media.valorant-api.com/playercards/c4d3f2f0-4163-9ef7-19ca-35b4f447517f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c4d3f2f0-4163-9ef7-19ca-35b4f447517f/largeart.png"
+    },
+    "89cf93e6-4de5-e784-0089-589bce91c594": {
+        "Name": "Topotek Card",
+        "Image": "https://media.valorant-api.com/playercards/89cf93e6-4de5-e784-0089-589bce91c594/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/89cf93e6-4de5-e784-0089-589bce91c594/largeart.png"
+    },
+    "37f59255-44da-ade1-facc-06a06be85aa4": {
+        "Name": "Signature Card",
+        "Image": "https://media.valorant-api.com/playercards/37f59255-44da-ade1-facc-06a06be85aa4/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/37f59255-44da-ade1-facc-06a06be85aa4/largeart.png"
+    },
+    "d79b67c0-4a2b-d865-a6c4-b3bca5356200": {
+        "Name": "Pixel Moments Card",
+        "Image": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/largeart.png"
+    },
+    "04ca7dfa-48f0-0d6e-587d-8b9ecc78c5e8": {
+        "Name": "Setting Records Card",
+        "Image": "https://media.valorant-api.com/playercards/04ca7dfa-48f0-0d6e-587d-8b9ecc78c5e8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/04ca7dfa-48f0-0d6e-587d-8b9ecc78c5e8/largeart.png"
+    },
+    "3d630ad7-4d72-08a4-4a9d-30af16783d06": {
+        "Name": "Boot Camp // So Much More Card",
+        "Image": "https://media.valorant-api.com/playercards/3d630ad7-4d72-08a4-4a9d-30af16783d06/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3d630ad7-4d72-08a4-4a9d-30af16783d06/largeart.png"
+    },
+    "5289acbf-461a-1d24-b198-60a5864d28bd": {
+        "Name": "Boot Camp // Two Mountains Card",
+        "Image": "https://media.valorant-api.com/playercards/5289acbf-461a-1d24-b198-60a5864d28bd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5289acbf-461a-1d24-b198-60a5864d28bd/largeart.png"
+    },
+    "2071d51a-4356-1f55-6776-59a32ce91b71": {
+        "Name": "Boot Camp // Stealth Module Card",
+        "Image": "https://media.valorant-api.com/playercards/2071d51a-4356-1f55-6776-59a32ce91b71/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2071d51a-4356-1f55-6776-59a32ce91b71/largeart.png"
+    },
+    "c16b3d8d-4c34-2b9e-8379-9b977e371702": {
+        "Name": "Tilde Card",
+        "Image": "https://media.valorant-api.com/playercards/c16b3d8d-4c34-2b9e-8379-9b977e371702/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c16b3d8d-4c34-2b9e-8379-9b977e371702/largeart.png"
+    },
+    "9f76957c-4b07-5321-85a1-2a8cda32305b": {
+        "Name": "Gentle Breeze Card",
+        "Image": "https://media.valorant-api.com/playercards/9f76957c-4b07-5321-85a1-2a8cda32305b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9f76957c-4b07-5321-85a1-2a8cda32305b/largeart.png"
+    },
+    "6ca6c154-4ec2-3656-ce84-a79b5a29a34e": {
+        "Name": "Brunch at Crown Card",
+        "Image": "https://media.valorant-api.com/playercards/6ca6c154-4ec2-3656-ce84-a79b5a29a34e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6ca6c154-4ec2-3656-ce84-a79b5a29a34e/largeart.png"
+    },
+    "b86e4bf8-43b1-d129-53ad-67bb65f36af0": {
+        "Name": "Claw Master Card",
+        "Image": "https://media.valorant-api.com/playercards/b86e4bf8-43b1-d129-53ad-67bb65f36af0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b86e4bf8-43b1-d129-53ad-67bb65f36af0/largeart.png"
+    },
+    "f28776de-44a5-973b-c106-c884e3d6f864": {
+        "Name": "Epilogue: Claw Master Card",
+        "Image": "https://media.valorant-api.com/playercards/f28776de-44a5-973b-c106-c884e3d6f864/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f28776de-44a5-973b-c106-c884e3d6f864/largeart.png"
+    },
+    "59cb1a87-456b-9b1e-acef-3ca613286339": {
+        "Name": "Caffeine Dreams Card",
+        "Image": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/largeart.png"
+    },
+    "f9214f21-45aa-f41b-798b-279f6c08b535": {
+        "Name": "Death Trap Card",
+        "Image": "https://media.valorant-api.com/playercards/f9214f21-45aa-f41b-798b-279f6c08b535/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f9214f21-45aa-f41b-798b-279f6c08b535/largeart.png"
+    },
+    "771c867f-4c0f-e19b-8a96-8faa10d7ba72": {
+        "Name": "Bound Card",
+        "Image": "https://media.valorant-api.com/playercards/771c867f-4c0f-e19b-8a96-8faa10d7ba72/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/771c867f-4c0f-e19b-8a96-8faa10d7ba72/largeart.png"
+    },
+    "2a8e14dc-485e-e4e1-2843-9a9b05873089": {
+        "Name": "Monstrocity Card",
+        "Image": "https://media.valorant-api.com/playercards/2a8e14dc-485e-e4e1-2843-9a9b05873089/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2a8e14dc-485e-e4e1-2843-9a9b05873089/largeart.png"
+    },
+    "a6d48dd0-40eb-e2f0-d862-219df87a9583": {
+        "Name": "Moondash Card",
+        "Image": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/largeart.png"
+    },
+    "7d7f15c5-46f5-58ea-b1d5-bba31c60d5d0": {
+        "Name": "Skyborne Greeting Card",
+        "Image": "https://media.valorant-api.com/playercards/7d7f15c5-46f5-58ea-b1d5-bba31c60d5d0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7d7f15c5-46f5-58ea-b1d5-bba31c60d5d0/largeart.png"
+    },
+    "a34e1432-4c97-ac38-808f-859a7f79f5e6": {
+        "Name": "The Edge of Everything Card",
+        "Image": "https://media.valorant-api.com/playercards/a34e1432-4c97-ac38-808f-859a7f79f5e6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a34e1432-4c97-ac38-808f-859a7f79f5e6/largeart.png"
+    },
+    "47b06f7b-4d29-49ef-30d5-c1a601a7af5c": {
+        "Name": "Scylla and Charybdis Card",
+        "Image": "https://media.valorant-api.com/playercards/47b06f7b-4d29-49ef-30d5-c1a601a7af5c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/47b06f7b-4d29-49ef-30d5-c1a601a7af5c/largeart.png"
+    },
+    "16000b58-4479-402e-58d9-c994823544b1": {
+        "Name": "Radiants Detected Card",
+        "Image": "https://media.valorant-api.com/playercards/16000b58-4479-402e-58d9-c994823544b1/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/16000b58-4479-402e-58d9-c994823544b1/largeart.png"
+    },
+    "d75fe051-441e-ea69-6d9b-48b175808ce2": {
+        "Name": "Best Served Cold Card",
+        "Image": "https://media.valorant-api.com/playercards/d75fe051-441e-ea69-6d9b-48b175808ce2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d75fe051-441e-ea69-6d9b-48b175808ce2/largeart.png"
+    },
+    "87203e3f-4d77-3f90-cc4f-1a91e3a93504": {
+        "Name": "Nothing To Lose Card",
+        "Image": "https://media.valorant-api.com/playercards/87203e3f-4d77-3f90-cc4f-1a91e3a93504/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/87203e3f-4d77-3f90-cc4f-1a91e3a93504/largeart.png"
+    },
+    "bab9caaa-4913-2704-833e-8c89e2128eb9": {
+        "Name": "EP 1 // IGNITION Card",
+        "Image": "https://media.valorant-api.com/playercards/bab9caaa-4913-2704-833e-8c89e2128eb9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/bab9caaa-4913-2704-833e-8c89e2128eb9/largeart.png"
+    },
+    "8453f8ef-4c0b-46e2-8768-3e9e45c67a2c": {
+        "Name": "EP 2 // FORMATION Card",
+        "Image": "https://media.valorant-api.com/playercards/8453f8ef-4c0b-46e2-8768-3e9e45c67a2c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8453f8ef-4c0b-46e2-8768-3e9e45c67a2c/largeart.png"
+    },
+    "d72e09a3-4916-9bae-8570-c7b3c35c347d": {
+        "Name": "Give Back Card",
+        "Image": "https://media.valorant-api.com/playercards/d72e09a3-4916-9bae-8570-c7b3c35c347d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d72e09a3-4916-9bae-8570-c7b3c35c347d/largeart.png"
+    },
+    "b320ffdd-4943-5642-1a49-2da19a740ab9": {
+        "Name": "Give Back // 2022 Card",
+        "Image": "https://media.valorant-api.com/playercards/b320ffdd-4943-5642-1a49-2da19a740ab9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b320ffdd-4943-5642-1a49-2da19a740ab9/largeart.png"
+    },
+    "a3b93c7b-440b-ca21-f87d-f88696f0ebd6": {
+        "Name": "Harbor ID Card",
+        "Image": "https://media.valorant-api.com/playercards/a3b93c7b-440b-ca21-f87d-f88696f0ebd6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a3b93c7b-440b-ca21-f87d-f88696f0ebd6/largeart.png"
+    },
+    "dee6814e-42f5-50c2-9f5d-da88301ba56b": {
+        "Name": "Soulstrife Card",
+        "Image": "https://media.valorant-api.com/playercards/dee6814e-42f5-50c2-9f5d-da88301ba56b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/dee6814e-42f5-50c2-9f5d-da88301ba56b/largeart.png"
+    },
+    "f67a7c8f-4d3f-b76f-2921-478a4da44109": {
+        "Name": "Art of Greatness // Champions Card",
+        "Image": "https://media.valorant-api.com/playercards/f67a7c8f-4d3f-b76f-2921-478a4da44109/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f67a7c8f-4d3f-b76f-2921-478a4da44109/largeart.png"
+    },
+    "e17c2e94-44fb-9486-8497-9dab8b942b3d": {
+        "Name": "Showdown Watch Card",
+        "Image": "https://media.valorant-api.com/playercards/e17c2e94-44fb-9486-8497-9dab8b942b3d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e17c2e94-44fb-9486-8497-9dab8b942b3d/largeart.png"
+    },
+    "546c9535-4671-e7cf-d5f9-1b90e3e2d7e4": {
+        "Name": "Wishing You Happiness Card",
+        "Image": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/largeart.png"
+    },
+    "68b0c8c2-4158-7b21-658d-b4ae86f137ce": {
+        "Name": "Alpha Threat Card",
+        "Image": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/largeart.png"
+    },
+    "a26b6480-4bc4-51df-fe97-4680f30786d5": {
+        "Name": "Up in Arms Card",
+        "Image": "https://media.valorant-api.com/playercards/a26b6480-4bc4-51df-fe97-4680f30786d5/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a26b6480-4bc4-51df-fe97-4680f30786d5/largeart.png"
+    },
+    "f904b709-44d1-71d6-8288-fc9c968979d9": {
+        "Name": "Champions 2022 NICE! Card",
+        "Image": "https://media.valorant-api.com/playercards/f904b709-44d1-71d6-8288-fc9c968979d9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f904b709-44d1-71d6-8288-fc9c968979d9/largeart.png"
+    },
+    "bcf9cff4-4163-a536-458d-22b8904876ad": {
+        "Name": "The Calm Card",
+        "Image": "https://media.valorant-api.com/playercards/bcf9cff4-4163-a536-458d-22b8904876ad/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/bcf9cff4-4163-a536-458d-22b8904876ad/largeart.png"
+    },
+    "33910cd9-4ac5-a0e1-8e79-3ca6916af3ef": {
+        "Name": "Caught One Card",
+        "Image": "https://media.valorant-api.com/playercards/33910cd9-4ac5-a0e1-8e79-3ca6916af3ef/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/33910cd9-4ac5-a0e1-8e79-3ca6916af3ef/largeart.png"
+    },
+    "49288113-4c45-8c18-3862-1f8cee403408": {
+        "Name": "ChronoVoid Card",
+        "Image": "https://media.valorant-api.com/playercards/49288113-4c45-8c18-3862-1f8cee403408/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/49288113-4c45-8c18-3862-1f8cee403408/largeart.png"
+    },
+    "4b00c963-4ff3-d147-f8ab-92b31a88c8a2": {
+        "Name": "EP 4 // DISRUPTION Card",
+        "Image": "https://media.valorant-api.com/playercards/4b00c963-4ff3-d147-f8ab-92b31a88c8a2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4b00c963-4ff3-d147-f8ab-92b31a88c8a2/largeart.png"
+    },
+    "dc290f6b-4b64-55a2-a0a0-a395c6bf82ec": {
+        "Name": "EP 5 // DIMENSION Card",
+        "Image": "https://media.valorant-api.com/playercards/dc290f6b-4b64-55a2-a0a0-a395c6bf82ec/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/dc290f6b-4b64-55a2-a0a0-a395c6bf82ec/largeart.png"
+    },
+    "6a578461-430d-e0a9-d67e-4c967e0bdf1a": {
+        "Name": "2022 Game Changers Championship Card",
+        "Image": "https://media.valorant-api.com/playercards/6a578461-430d-e0a9-d67e-4c967e0bdf1a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6a578461-430d-e0a9-d67e-4c967e0bdf1a/largeart.png"
+    },
+    "0c196ea1-48ac-97eb-5362-c884937c016f": {
+        "Name": "Rank Up! // Masters Tokyo 2023 Card",
+        "Image": "https://media.valorant-api.com/playercards/0c196ea1-48ac-97eb-5362-c884937c016f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0c196ea1-48ac-97eb-5362-c884937c016f/largeart.png"
+    },
+    "c87737f8-44bc-1b71-8424-c18d9cd6336a": {
+        "Name": "Champions 2022 Hero Card",
+        "Image": "https://media.valorant-api.com/playercards/c87737f8-44bc-1b71-8424-c18d9cd6336a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c87737f8-44bc-1b71-8424-c18d9cd6336a/largeart.png"
+    },
+    "cb7157ed-4fc7-a5c9-714b-1786ca3949f1": {
+        "Name": "Versus // Yoru \u002B Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/largeart.png"
+    },
+    "1ec054a0-4184-8802-57fb-0ab81599befd": {
+        "Name": "Arcane Jinx Card",
+        "Image": "https://media.valorant-api.com/playercards/1ec054a0-4184-8802-57fb-0ab81599befd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1ec054a0-4184-8802-57fb-0ab81599befd/largeart.png"
+    },
+    "23a03943-4c16-0de4-0fe0-b9bcba24a26a": {
+        "Name": "Premier Beta Card",
+        "Image": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/largeart.png"
+    },
+    "3f77186a-40a9-7abc-9ac6-5a988d279dad": {
+        "Name": "Premier Beta Champion Card",
+        "Image": "https://media.valorant-api.com/playercards/3f77186a-40a9-7abc-9ac6-5a988d279dad/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3f77186a-40a9-7abc-9ac6-5a988d279dad/largeart.png"
+    },
+    "bb5cedcd-4ed9-ee2e-f129-48bf60a8e540": {
+        "Name": "Duality Card",
+        "Image": "https://media.valorant-api.com/playercards/bb5cedcd-4ed9-ee2e-f129-48bf60a8e540/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/bb5cedcd-4ed9-ee2e-f129-48bf60a8e540/largeart.png"
+    },
+    "584b90b0-4bdc-e9e4-a13f-9eaff115b624": {
+        "Name": "Wayfinder Card",
+        "Image": "https://media.valorant-api.com/playercards/584b90b0-4bdc-e9e4-a13f-9eaff115b624/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/584b90b0-4bdc-e9e4-a13f-9eaff115b624/largeart.png"
+    },
+    "9e9c4c4a-4d53-6c37-4e48-85b771b9dd4e": {
+        "Name": "War Dawgs Card",
+        "Image": "https://media.valorant-api.com/playercards/9e9c4c4a-4d53-6c37-4e48-85b771b9dd4e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9e9c4c4a-4d53-6c37-4e48-85b771b9dd4e/largeart.png"
+    },
+    "0819fbcd-4bd4-c379-5384-52803440f2b2": {
+        "Name": "V Protocol Card",
+        "Image": "https://media.valorant-api.com/playercards/0819fbcd-4bd4-c379-5384-52803440f2b2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0819fbcd-4bd4-c379-5384-52803440f2b2/largeart.png"
+    },
+    "c89194bd-4710-b54e-8d6c-60be6274fbb2": {
+        "Name": "Code Red Card",
+        "Image": "https://media.valorant-api.com/playercards/c89194bd-4710-b54e-8d6c-60be6274fbb2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c89194bd-4710-b54e-8d6c-60be6274fbb2/largeart.png"
+    },
+    "c8c31580-4315-967b-998b-dfa377bb8843": {
+        "Name": "VALORANT Dawn Card",
+        "Image": "https://media.valorant-api.com/playercards/c8c31580-4315-967b-998b-dfa377bb8843/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c8c31580-4315-967b-998b-dfa377bb8843/largeart.png"
+    },
+    "893deca1-4123-9c1f-2985-aa9de74cb512": {
+        "Name": "Pride // Rainbow Card",
+        "Image": "https://media.valorant-api.com/playercards/893deca1-4123-9c1f-2985-aa9de74cb512/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/893deca1-4123-9c1f-2985-aa9de74cb512/largeart.png"
+    },
+    "5b27d2de-4a97-d6c1-76e7-669189c67072": {
+        "Name": "Pride // Cotton Candy Card",
+        "Image": "https://media.valorant-api.com/playercards/5b27d2de-4a97-d6c1-76e7-669189c67072/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5b27d2de-4a97-d6c1-76e7-669189c67072/largeart.png"
+    },
+    "8d82ec0a-4c3b-8458-d0b6-e1bb900671cf": {
+        "Name": "Pride // Primary Card",
+        "Image": "https://media.valorant-api.com/playercards/8d82ec0a-4c3b-8458-d0b6-e1bb900671cf/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8d82ec0a-4c3b-8458-d0b6-e1bb900671cf/largeart.png"
+    },
+    "80365467-4e7d-e7cf-bb93-a1b4bd844109": {
+        "Name": "Pride // Galactic Card",
+        "Image": "https://media.valorant-api.com/playercards/80365467-4e7d-e7cf-bb93-a1b4bd844109/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/80365467-4e7d-e7cf-bb93-a1b4bd844109/largeart.png"
+    },
+    "e7fc5596-4687-f0c1-1e30-08808669ef07": {
+        "Name": "Pride // Sunset Card",
+        "Image": "https://media.valorant-api.com/playercards/e7fc5596-4687-f0c1-1e30-08808669ef07/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e7fc5596-4687-f0c1-1e30-08808669ef07/largeart.png"
+    },
+    "4714babb-415b-a9d6-f63d-9ea5b9c74601": {
+        "Name": "Pride // Twilight Card",
+        "Image": "https://media.valorant-api.com/playercards/4714babb-415b-a9d6-f63d-9ea5b9c74601/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4714babb-415b-a9d6-f63d-9ea5b9c74601/largeart.png"
+    },
+    "7a241692-4361-aec4-95cc-c0a700c9f2d9": {
+        "Name": "Pride // Sherbet Card",
+        "Image": "https://media.valorant-api.com/playercards/7a241692-4361-aec4-95cc-c0a700c9f2d9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7a241692-4361-aec4-95cc-c0a700c9f2d9/largeart.png"
+    },
+    "4dce4142-44bf-32e5-6f51-7e905389502c": {
+        "Name": "Pride // Mint Card",
+        "Image": "https://media.valorant-api.com/playercards/4dce4142-44bf-32e5-6f51-7e905389502c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4dce4142-44bf-32e5-6f51-7e905389502c/largeart.png"
+    },
+    "99bdfb9b-4ee9-a057-5b62-b2ae6309abf8": {
+        "Name": "Art of Greatness // Unbreakable Card",
+        "Image": "https://media.valorant-api.com/playercards/99bdfb9b-4ee9-a057-5b62-b2ae6309abf8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/99bdfb9b-4ee9-a057-5b62-b2ae6309abf8/largeart.png"
+    },
+    "c5e7988c-46ec-7742-f1bf-83bdc20b49d9": {
+        "Name": "Art of Greatness // The Flame Card",
+        "Image": "https://media.valorant-api.com/playercards/c5e7988c-46ec-7742-f1bf-83bdc20b49d9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c5e7988c-46ec-7742-f1bf-83bdc20b49d9/largeart.png"
+    },
+    "ca15070b-4ed8-4a4f-f1e7-aea812fd8fef": {
+        "Name": "Art of Greatness // Inspiration Card",
+        "Image": "https://media.valorant-api.com/playercards/ca15070b-4ed8-4a4f-f1e7-aea812fd8fef/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/ca15070b-4ed8-4a4f-f1e7-aea812fd8fef/largeart.png"
+    },
+    "8d3a3c3b-44fc-0257-4f3e-e894340eb40a": {
+        "Name": "Champions 2022 Card",
+        "Image": "https://media.valorant-api.com/playercards/8d3a3c3b-44fc-0257-4f3e-e894340eb40a/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8d3a3c3b-44fc-0257-4f3e-e894340eb40a/largeart.png"
+    },
+    "cada2e3f-4b1d-8279-3e1a-49984a71d4d3": {
+        "Name": "RGX 11z Pro Card",
+        "Image": "https://media.valorant-api.com/playercards/cada2e3f-4b1d-8279-3e1a-49984a71d4d3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/cada2e3f-4b1d-8279-3e1a-49984a71d4d3/largeart.png"
+    },
+    "39729022-445a-d7bb-52e7-9e909e481db2": {
+        "Name": "RGX 11z Pro, Ep 4 Card",
+        "Image": "https://media.valorant-api.com/playercards/39729022-445a-d7bb-52e7-9e909e481db2/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/39729022-445a-d7bb-52e7-9e909e481db2/largeart.png"
+    },
+    "a89bd44e-4b47-7ce1-27a6-0189c1ad8c2f": {
+        "Name": "VALORANT GO! Vol. 1 Cypher Card",
+        "Image": "https://media.valorant-api.com/playercards/a89bd44e-4b47-7ce1-27a6-0189c1ad8c2f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a89bd44e-4b47-7ce1-27a6-0189c1ad8c2f/largeart.png"
+    },
+    "6c56e968-4b9c-c9d6-068a-109a03b13866": {
+        "Name": "VALORANT GO! Vol. 1 Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/6c56e968-4b9c-c9d6-068a-109a03b13866/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6c56e968-4b9c-c9d6-068a-109a03b13866/largeart.png"
+    },
+    "42cc3d8c-4e77-ee86-56bb-30a6025a89c0": {
+        "Name": "VALORANT GO! Vol. 1 Killjoy Card",
+        "Image": "https://media.valorant-api.com/playercards/42cc3d8c-4e77-ee86-56bb-30a6025a89c0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/42cc3d8c-4e77-ee86-56bb-30a6025a89c0/largeart.png"
+    },
+    "1a42dc71-40aa-9873-4729-b788b043a644": {
+        "Name": "VALORANT GO! Vol. 1 Reyna Card",
+        "Image": "https://media.valorant-api.com/playercards/1a42dc71-40aa-9873-4729-b788b043a644/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1a42dc71-40aa-9873-4729-b788b043a644/largeart.png"
+    },
+    "9df9aa67-4ff7-988d-cf72-599a7d5fe2bf": {
+        "Name": "VALORANT GO! Vol. 1 Sage Card",
+        "Image": "https://media.valorant-api.com/playercards/9df9aa67-4ff7-988d-cf72-599a7d5fe2bf/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9df9aa67-4ff7-988d-cf72-599a7d5fe2bf/largeart.png"
+    },
+    "7c41a772-4af0-aa8a-1f6d-4cbece76eab6": {
+        "Name": "VALORANT GO! Vol. 2 Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/7c41a772-4af0-aa8a-1f6d-4cbece76eab6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/7c41a772-4af0-aa8a-1f6d-4cbece76eab6/largeart.png"
+    },
+    "a66cce42-4ecd-1999-9700-e387eb8cbe00": {
+        "Name": "VALORANT GO! Vol. 2 Raze Card",
+        "Image": "https://media.valorant-api.com/playercards/a66cce42-4ecd-1999-9700-e387eb8cbe00/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a66cce42-4ecd-1999-9700-e387eb8cbe00/largeart.png"
+    },
+    "9e127cdf-4cb5-62e1-69a1-629227bf85c7": {
+        "Name": "VALORANT GO! Vol. 2 Sova Card",
+        "Image": "https://media.valorant-api.com/playercards/9e127cdf-4cb5-62e1-69a1-629227bf85c7/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9e127cdf-4cb5-62e1-69a1-629227bf85c7/largeart.png"
+    },
+    "a9793f93-4d99-c441-39f0-4cbd56b7e7c9": {
+        "Name": "VALORANT GO! Vol. 2 Viper Card",
+        "Image": "https://media.valorant-api.com/playercards/a9793f93-4d99-c441-39f0-4cbd56b7e7c9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a9793f93-4d99-c441-39f0-4cbd56b7e7c9/largeart.png"
+    },
+    "b55ec859-4533-c751-a1d8-b1bba5c16387": {
+        "Name": "VALORANT GO! Vol. 2 Yoru Card",
+        "Image": "https://media.valorant-api.com/playercards/b55ec859-4533-c751-a1d8-b1bba5c16387/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b55ec859-4533-c751-a1d8-b1bba5c16387/largeart.png"
+    },
+    "dbf1b46f-480f-cfbd-8fa8-22a80f8a589d": {
+        "Name": "Araxys Card",
+        "Image": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/largeart.png"
+    },
+    "a492f3ab-4961-7539-f946-2c828f464259": {
+        "Name": "Bazooka Badger Card",
+        "Image": "https://media.valorant-api.com/playercards/a492f3ab-4961-7539-f946-2c828f464259/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a492f3ab-4961-7539-f946-2c828f464259/largeart.png"
+    },
+    "1f4df484-4e26-6bed-3d00-c9a1b79ed5f8": {
+        "Name": "Dance Fever Card",
+        "Image": "https://media.valorant-api.com/playercards/1f4df484-4e26-6bed-3d00-c9a1b79ed5f8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1f4df484-4e26-6bed-3d00-c9a1b79ed5f8/largeart.png"
+    },
+    "4a3d6565-42c4-c25e-f846-1097e2a109a8": {
+        "Name": "K.nock O.ut!! Card",
+        "Image": "https://media.valorant-api.com/playercards/4a3d6565-42c4-c25e-f846-1097e2a109a8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4a3d6565-42c4-c25e-f846-1097e2a109a8/largeart.png"
+    },
+    "8314f8d7-4d2a-4042-f961-47b365ea64f0": {
+        "Name": "Gaia\u0027s Vengeance Card",
+        "Image": "https://media.valorant-api.com/playercards/8314f8d7-4d2a-4042-f961-47b365ea64f0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8314f8d7-4d2a-4042-f961-47b365ea64f0/largeart.png"
+    },
+    "006e03e5-4fdb-c400-4c5b-5f815980f403": {
+        "Name": "Spectrum Card",
+        "Image": "https://media.valorant-api.com/playercards/006e03e5-4fdb-c400-4c5b-5f815980f403/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/006e03e5-4fdb-c400-4c5b-5f815980f403/largeart.png"
+    },
+    "3c930c58-4f56-1a14-6397-c3bd42f31955": {
+        "Name": "Origin Card",
+        "Image": "https://media.valorant-api.com/playercards/3c930c58-4f56-1a14-6397-c3bd42f31955/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/3c930c58-4f56-1a14-6397-c3bd42f31955/largeart.png"
+    },
+    "02096add-4c34-b916-af22-50b3791da2f4": {
+        "Name": "Undercity Card",
+        "Image": "https://media.valorant-api.com/playercards/02096add-4c34-b916-af22-50b3791da2f4/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/02096add-4c34-b916-af22-50b3791da2f4/largeart.png"
+    },
+    "df3adf8c-4fa3-5f57-544d-eabf8b68713d": {
+        "Name": "Glitchpop Card",
+        "Image": "https://media.valorant-api.com/playercards/df3adf8c-4fa3-5f57-544d-eabf8b68713d/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/df3adf8c-4fa3-5f57-544d-eabf8b68713d/largeart.png"
+    },
+    "92ac6212-486a-03fb-b72d-18bde165f7cd": {
+        "Name": "Glitchpop, EP 2 Card",
+        "Image": "https://media.valorant-api.com/playercards/92ac6212-486a-03fb-b72d-18bde165f7cd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/92ac6212-486a-03fb-b72d-18bde165f7cd/largeart.png"
+    },
+    "c4ce702b-4b2a-a89c-5f24-f78406ebdd1f": {
+        "Name": "Doodle Buds // League of Legends Card",
+        "Image": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/largeart.png"
+    },
+    "da32c450-4d12-2858-89fa-07be25d51b0b": {
+        "Name": "Doodle Buds // Agents Card",
+        "Image": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/largeart.png"
+    },
+    "009f74aa-4c66-0f61-c165-9c91a3addff6": {
+        "Name": "Doodle Buds // Tactifriends Card",
+        "Image": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/largeart.png"
+    },
+    "6e3d1cd3-4494-8b21-cbc7-0797e8de75db": {
+        "Name": "Elderflame Card",
+        "Image": "https://media.valorant-api.com/playercards/6e3d1cd3-4494-8b21-cbc7-0797e8de75db/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6e3d1cd3-4494-8b21-cbc7-0797e8de75db/largeart.png"
+    },
+    "0abecac7-411f-71c0-9504-2d81df0acd71": {
+        "Name": "Singularity Card",
+        "Image": "https://media.valorant-api.com/playercards/0abecac7-411f-71c0-9504-2d81df0acd71/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0abecac7-411f-71c0-9504-2d81df0acd71/largeart.png"
+    },
+    "d3c65faf-49c2-9861-cccd-f3b5428c64da": {
+        "Name": "VCT Americas 2023 Card",
+        "Image": "https://media.valorant-api.com/playercards/d3c65faf-49c2-9861-cccd-f3b5428c64da/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d3c65faf-49c2-9861-cccd-f3b5428c64da/largeart.png"
+    },
+    "d824f9c8-48fd-f56c-5669-5680a7a10031": {
+        "Name": "VCT EMEA 2023 Card",
+        "Image": "https://media.valorant-api.com/playercards/d824f9c8-48fd-f56c-5669-5680a7a10031/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d824f9c8-48fd-f56c-5669-5680a7a10031/largeart.png"
+    },
+    "068e78f6-4d12-7e0a-76ec-3cb80e157d76": {
+        "Name": "VCT Pacific 2023 Card",
+        "Image": "https://media.valorant-api.com/playercards/068e78f6-4d12-7e0a-76ec-3cb80e157d76/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/068e78f6-4d12-7e0a-76ec-3cb80e157d76/largeart.png"
+    },
+    "f8b05d16-4ecc-e5ec-e6f7-12a5b5bd7dc0": {
+        "Name": "Forsaken Card",
+        "Image": "https://media.valorant-api.com/playercards/f8b05d16-4ecc-e5ec-e6f7-12a5b5bd7dc0/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f8b05d16-4ecc-e5ec-e6f7-12a5b5bd7dc0/largeart.png"
+    },
+    "6b8e3723-4530-74eb-2a67-19b48a45c53c": {
+        "Name": "Team Ace // Jett Card",
+        "Image": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/largeart.png"
+    },
+    "8dc9e235-4def-c3eb-1d6f-609808a8afcc": {
+        "Name": "Team Ace // Phoenix Card",
+        "Image": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/largeart.png"
+    },
+    "f06973d3-491f-652a-ce0f-469d3516ad16": {
+        "Name": "Team Ace // Raze Card",
+        "Image": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/largeart.png"
+    },
+    "f4b95397-4740-9569-f2c6-ceb38da5bf73": {
+        "Name": "Team Ace // Reyna Card",
+        "Image": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/largeart.png"
+    },
+    "6f812af1-451d-0eab-59fe-93b64c5e2c77": {
+        "Name": "Team Ace // Yoru Card",
+        "Image": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/largeart.png"
+    },
+    "0e28a9b5-4a9a-bf7d-b4a1-9b8395461b77": {
+        "Name": "Ruin Card",
+        "Image": "https://media.valorant-api.com/playercards/0e28a9b5-4a9a-bf7d-b4a1-9b8395461b77/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/0e28a9b5-4a9a-bf7d-b4a1-9b8395461b77/largeart.png"
+    },
+    "90a0cd4b-4cd4-26ae-7a37-ee82f639bc04": {
+        "Name": "Prime//2.0 Card",
+        "Image": "https://media.valorant-api.com/playercards/90a0cd4b-4cd4-26ae-7a37-ee82f639bc04/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/90a0cd4b-4cd4-26ae-7a37-ee82f639bc04/largeart.png"
+    },
+    "d1f2aae0-4819-2e0e-8b15-61990259a9e3": {
+        "Name": "Ruination Card",
+        "Image": "https://media.valorant-api.com/playercards/d1f2aae0-4819-2e0e-8b15-61990259a9e3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d1f2aae0-4819-2e0e-8b15-61990259a9e3/largeart.png"
+    },
+    "38defae8-4b79-f5cc-09c1-ceb5e109c4c9": {
+        "Name": "Kohaku \u0026 Matsuba Card",
+        "Image": "https://media.valorant-api.com/playercards/38defae8-4b79-f5cc-09c1-ceb5e109c4c9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/38defae8-4b79-f5cc-09c1-ceb5e109c4c9/largeart.png"
+    },
+    "d33681d4-4168-0107-2b07-a19c57b96e96": {
+        "Name": "Nunca Olvidados Card",
+        "Image": "https://media.valorant-api.com/playercards/d33681d4-4168-0107-2b07-a19c57b96e96/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/d33681d4-4168-0107-2b07-a19c57b96e96/largeart.png"
+    },
+    "f7b44175-49be-3909-a34f-c68d6e3cecc3": {
+        "Name": "Celestial Card",
+        "Image": "https://media.valorant-api.com/playercards/f7b44175-49be-3909-a34f-c68d6e3cecc3/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/f7b44175-49be-3909-a34f-c68d6e3cecc3/largeart.png"
+    },
+    "41fbc848-4ab5-0b1b-7746-20ad95b310ae": {
+        "Name": "Magepunk Card",
+        "Image": "https://media.valorant-api.com/playercards/41fbc848-4ab5-0b1b-7746-20ad95b310ae/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/41fbc848-4ab5-0b1b-7746-20ad95b310ae/largeart.png"
+    },
+    "8918ccff-4fc1-7116-d553-4daf6feb53c9": {
+        "Name": "Magepunk, Ep 3 Card",
+        "Image": "https://media.valorant-api.com/playercards/8918ccff-4fc1-7116-d553-4daf6feb53c9/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8918ccff-4fc1-7116-d553-4daf6feb53c9/largeart.png"
+    },
+    "1d0fe8d7-42dd-6f77-50b0-798d1ff90bef": {
+        "Name": "Spline Card",
+        "Image": "https://media.valorant-api.com/playercards/1d0fe8d7-42dd-6f77-50b0-798d1ff90bef/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1d0fe8d7-42dd-6f77-50b0-798d1ff90bef/largeart.png"
+    },
+    "5bf1e174-49b0-8cb9-69d8-59979ba919ce": {
+        "Name": "Crimsonbeast Card",
+        "Image": "https://media.valorant-api.com/playercards/5bf1e174-49b0-8cb9-69d8-59979ba919ce/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5bf1e174-49b0-8cb9-69d8-59979ba919ce/largeart.png"
+    },
+    "5ff3a862-4e89-84dd-6e47-bda2cd2a5cec": {
+        "Name": "Ion Card",
+        "Image": "https://media.valorant-api.com/playercards/5ff3a862-4e89-84dd-6e47-bda2cd2a5cec/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/5ff3a862-4e89-84dd-6e47-bda2cd2a5cec/largeart.png"
+    },
+    "a6c3d002-4c9b-4514-d63c-c3a2294eb8e6": {
+        "Name": "Ion, Ep5 Card",
+        "Image": "https://media.valorant-api.com/playercards/a6c3d002-4c9b-4514-d63c-c3a2294eb8e6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a6c3d002-4c9b-4514-d63c-c3a2294eb8e6/largeart.png"
+    },
+    "aeca98db-4737-5e0f-3476-7eb8a16eb696": {
+        "Name": "Oni Card",
+        "Image": "https://media.valorant-api.com/playercards/aeca98db-4737-5e0f-3476-7eb8a16eb696/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/aeca98db-4737-5e0f-3476-7eb8a16eb696/largeart.png"
+    },
+    "b06a92e4-48ab-81f5-244b-9987534a8603": {
+        "Name": "Oni, Ep 6 Card",
+        "Image": "https://media.valorant-api.com/playercards/b06a92e4-48ab-81f5-244b-9987534a8603/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/b06a92e4-48ab-81f5-244b-9987534a8603/largeart.png"
+    },
+    "9ef2f845-4ab5-2350-ea38-0795bb21ed05": {
+        "Name": "Arcane Embrace Card",
+        "Image": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/largeart.png"
+    },
+    "66554177-4970-fea5-22d2-c0bd8514888c": {
+        "Name": "Protocol 781-A Card",
+        "Image": "https://media.valorant-api.com/playercards/66554177-4970-fea5-22d2-c0bd8514888c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/66554177-4970-fea5-22d2-c0bd8514888c/largeart.png"
+    },
+    "8a478f7f-4280-1661-586d-6f9eb5646ea7": {
+        "Name": "Luna Card",
+        "Image": "https://media.valorant-api.com/playercards/8a478f7f-4280-1661-586d-6f9eb5646ea7/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8a478f7f-4280-1661-586d-6f9eb5646ea7/largeart.png"
+    },
+    "c2f90c55-49be-93a5-daf4-6393d9d3f6fc": {
+        "Name": "Gravitational Uranium Neuroblaster Card",
+        "Image": "https://media.valorant-api.com/playercards/c2f90c55-49be-93a5-daf4-6393d9d3f6fc/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/c2f90c55-49be-93a5-daf4-6393d9d3f6fc/largeart.png"
+    },
+    "1e060f5a-4ce1-9109-3033-ed9aaaffb4ae": {
+        "Name": "Sentinels of Light Card",
+        "Image": "https://media.valorant-api.com/playercards/1e060f5a-4ce1-9109-3033-ed9aaaffb4ae/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/1e060f5a-4ce1-9109-3033-ed9aaaffb4ae/largeart.png"
+    },
+    "8bbdc250-4ffc-f6ba-61a0-0d84c4756a4e": {
+        "Name": "Reaver Card",
+        "Image": "https://media.valorant-api.com/playercards/8bbdc250-4ffc-f6ba-61a0-0d84c4756a4e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8bbdc250-4ffc-f6ba-61a0-0d84c4756a4e/largeart.png"
+    },
+    "e9e1ff4f-4e49-b52d-268d-4db667222eb8": {
+        "Name": "Tethered Realms: Sovereign Card",
+        "Image": "https://media.valorant-api.com/playercards/e9e1ff4f-4e49-b52d-268d-4db667222eb8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/e9e1ff4f-4e49-b52d-268d-4db667222eb8/largeart.png"
+    },
+    "a6ea23c9-43c6-0a94-f814-679c1236d3b7": {
+        "Name": "Tethered Realms: Forsaken Card",
+        "Image": "https://media.valorant-api.com/playercards/a6ea23c9-43c6-0a94-f814-679c1236d3b7/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a6ea23c9-43c6-0a94-f814-679c1236d3b7/largeart.png"
+    },
+    "53ebe88a-4548-6582-9dd0-edaf67ad8c1e": {
+        "Name": "Tigris Card",
+        "Image": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/largeart.png"
+    },
+    "8edf22c5-4489-ab41-769a-07adb4c454d6": {
+        "Name": "Ego Card",
+        "Image": "https://media.valorant-api.com/playercards/8edf22c5-4489-ab41-769a-07adb4c454d6/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8edf22c5-4489-ab41-769a-07adb4c454d6/largeart.png"
+    },
+    "8eb39b3d-443e-05e7-b8ec-6aa210da6e2e": {
+        "Name": "BlastX Card",
+        "Image": "https://media.valorant-api.com/playercards/8eb39b3d-443e-05e7-b8ec-6aa210da6e2e/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/8eb39b3d-443e-05e7-b8ec-6aa210da6e2e/largeart.png"
+    },
+    "da6843a1-40de-aa1b-0c7f-848d6ffb9b39": {
+        "Name": "Reaver, EP 5 Card",
+        "Image": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/largeart.png"
+    },
+    "2d91369b-4fb5-28c6-3111-c285c9a32c2c": {
+        "Name": "EP 3 // Reflection Card",
+        "Image": "https://media.valorant-api.com/playercards/2d91369b-4fb5-28c6-3111-c285c9a32c2c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/2d91369b-4fb5-28c6-3111-c285c9a32c2c/largeart.png"
+    },
+    "4ca63988-4ca6-2911-a1b5-98a4b765dffd": {
+        "Name": "Year One Card",
+        "Image": "https://media.valorant-api.com/playercards/4ca63988-4ca6-2911-a1b5-98a4b765dffd/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/4ca63988-4ca6-2911-a1b5-98a4b765dffd/largeart.png"
+    },
+    "86ca5ef3-4f3f-97e7-0f9c-8aa2e9166a7f": {
+        "Name": "Classic Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/86ca5ef3-4f3f-97e7-0f9c-8aa2e9166a7f/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/86ca5ef3-4f3f-97e7-0f9c-8aa2e9166a7f/largeart.png"
+    },
+    "086acc73-4c6a-26d4-5da6-a2ade411897c": {
+        "Name": "OP Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/086acc73-4c6a-26d4-5da6-a2ade411897c/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/086acc73-4c6a-26d4-5da6-a2ade411897c/largeart.png"
+    },
+    "a75c951f-4822-f85d-44ed-709e413aa5f8": {
+        "Name": "Spectre Schema Card",
+        "Image": "https://media.valorant-api.com/playercards/a75c951f-4822-f85d-44ed-709e413aa5f8/displayicon.png",
+        "FullImage": "https://media.valorant-api.com/playercards/a75c951f-4822-f85d-44ed-709e413aa5f8/largeart.png"
+    }
+}

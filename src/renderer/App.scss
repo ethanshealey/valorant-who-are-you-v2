@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+:root {
+  --text: #edeeed;
+  --bg: #141514;
+  --primary: #2c4268;
+  --secondary: #020303;
+  --accent: #a8a6a4;
+  --font: 'Nunito Sans', sans-serif;
+}
+
+html, body {
+  background: rgb(27,27,27);
+  background: -moz-radial-gradient(circle, rgba(27,27,27,1) 0%, rgba(20,20,20,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(27,27,27,1) 0%, rgba(20,20,20,1) 100%);
+  background: radial-gradient(circle, rgba(27,27,27,1) 0%, rgba(20,20,20,1) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* PLAYER CARD */
+#player-card {
+  background-color: #2a2e32;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 5px;
+  height: 95px;
+  #player-card-left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    img {
+      border-radius: 2.5px;
+    }
+    #name-and-level {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      height: 95px;
+      margin-left: 10px;
+      h1 {
+        color: var(--text);
+        font-family: var(--font);
+        margin-bottom: 0;
+        span {
+          opacity: 50%;
+          font-weight: 100;
+        }
+      }
+      #level {
+        color: var(--text);
+        font-family: var(--font);
+        font-weight: 100;
+        background-color: rgb(27,27,27);
+        border-radius: 15px;
+        width: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 0;
+        font-size: 15px;
+      }
+    }
+  }
+  #player-card-right {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+  }
+}
+
+#match-wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  #match-header {
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    #mode {
+      margin-right: 15px;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      color: var(--text);
+      font-family: var(--font);
+    }
+  }
+  #team-comp {
+    height: 100%;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -15px;
+    #blue, #red {
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      #match-player-card {
+        background-color: #2a2e32;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        border-radius: 5px;
+        height: 95px;
+        margin: 10px;
+        width: 100%;
+        #match-player-card-left {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: center;
+          margin-left: 10px;
+          img {
+            border-radius: 2.5px;
+          }
+          #match-player-name-and-level {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            height: 95px;
+            margin-left: 10px;
+            h1 {
+              color: var(--text);
+              font-family: var(--font);
+              margin-bottom: 0;
+              max-width: 200px;
+              font-size: 25px;
+              overflow: hidden;
+              text-overflow: ellipsis;
+              span {
+                opacity: 50%;
+                font-weight: 100;
+              }
+            }
+            #match-player-level {
+              color: var(--text);
+              font-family: var(--font);
+              font-weight: 100;
+              background-color: rgb(27,27,27);
+              border-radius: 15px;
+              width: 50px;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              margin-top: 0;
+              font-size: 15px;
+            }
+          }
+        }
+        #match-player-card-right {
+          display: flex;
+          flex-direction: row-reverse;
+          justify-content: center;
+          align-items: center;
+          margin-right: 10px;
+        }
+      }
+    }
+    #blue {
+      margin-right: 20px;
+    }
+    #red {
+      margin-left: 20px;
+    }
+  }
+}
+// }
+// #player-card #player-card-left {
+//   display: flex;
+//   flex-direction: row;
+//   align-items: center;
+//   justify-content: center;
+//   margin-left: 10px;
+// }
+// #player-card #player-card-left img {
+//   border-radius: 2.5px;
+// }
+// #player-card #player-card-left h1 {
+//   color: var(--text);
+//   font-family: var(--font);
+// }
+// #player-card #player-card-left h1 span {
+//   opacity: 50%;
+//   font-weight: 100;
+// }
+
+/* SPINNER */
+#loading-wrapper {
+  color: var(--text);
+  font-family: 'Nunito Sans';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#loading {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 3px solid rgba(255,255,255,.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
