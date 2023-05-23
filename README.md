@@ -1,1 +1,1 @@
-Welcome to What Are you, a simple app that lets you see your teammates and opponents ranks!
+Welcome to Who Are you (WAY), a simple app that lets you see your teammates and opponents ranks!
