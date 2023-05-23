@@ -1,5 +1,5 @@
 import React from 'react'
-
+import agents from '../images/agent.json'
 
 const MatchPlayerCard = (props) => {
   return (
@@ -7,6 +7,7 @@ const MatchPlayerCard = (props) => {
       <div id="match-player-card-left">
         <img width='75px' height='75px' src={require(`../images/agents/${props.player.character.toLowerCase()}.png`)} />
         <div id="match-player-name-and-level">
+          <h3>{ agents[props.player.character] }</h3>
           <h1 id="match-player-name">
             {props.player.name}<span>{props.player.tag}</span>
           </h1>
