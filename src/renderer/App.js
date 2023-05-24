@@ -25,7 +25,6 @@ const Main = () => {
 
   window.bridge.getUser((event, lf) => {
     setUser(lf)
-    console.log(lf)
     window.bridge.requestMatch()
     window.bridge.awaitDeath()
   })

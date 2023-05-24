@@ -6,12 +6,6 @@ import sleep from '../helpers/sleep'
 import Entitlement from '../models/Entitlement'
 import Match from '../models/Match'
 import Player from '../models/Player'
-import axios from 'axios'
-const https = require('https')
-
-const allowSelfSigned = new https.Agent({
-    rejectUnauthorized: false
-})
 
 const getClientVersion = async () => {
     const clientVersionPath = `${process.env.LOCALAPPDATA}\\VALORANT\\Saved\\Logs\\ShooterGame.log`
@@ -144,18 +138,38 @@ const getRank = async (lockfile: Lockfile, puuid: string, entitlement: Entitleme
     }).catch(console.log)
 }
 
-const getParty = async (lockfile: Lockfile, puuid: string, entitlement: Entitlement, cb: Function) => {
-    const url = `https://glz-${lockfile.region}-1.${lockfile.shard}.a.pvp.net/parties/v1/players/${puuid}`
-    axiosRequestWithEntitlement(lockfile.version, entitlement).get(url).then((res) => {
-        cb(res.data.CurrentPartyID)
-    }).catch(console.log)
-}
-
 const getNameAndTag = async (lockfile: Lockfile, entitlement: Entitlement, puuid: string, cb: Function) => {
     const url = `https://pd.${lockfile.shard}.a.pvp.net/name-service/v2/players`
     axiosRequestWithEntitlement(lockfile.version, entitlement).put(url, [puuid]).then((res) => {
         if(res.data) cb(res.data[0].GameName, res.data[0].TagLine)
-        else cb('', '')
+        else return cb('', '')
+    })
+}
+
+const getParties = async (lockfile: Lockfile, allPuuids: string[], cb: Function) => {
+    const url = `https://127.0.0.1:${lockfile.port}/chat/v4/presences`
+    axiosRequestWithPassword(lockfile.password).get(url).then((res) => {
+        // Only keep the player IDs that are in the game
+        const presences: any = res.data.presences.filter((player: Player) => allPuuids.includes(player.puuid))
+        const partyIDs = {}
+        for(const presence of presences) {
+            //console.log(JSON.parse(Buffer.from(presence.private, 'base64').toString('utf-8')))
+            const puuid: string = presence.puuid
+            const party: any = JSON.parse(Buffer.from(presence.private, 'base64').toString('utf-8'))
+            const partyId = party.partyId
+            const partySize = party.partySize
+            if(partySize > 1) {
+                if(!(party in partyIDs)) {
+                    // @ts-ignore: suppress implicit any errors
+                    partyIDs[party] = [ puuid ]
+                }
+                else {
+                    // @ts-ignore: suppress implicit any errors
+                    partyIDs[party].push(puuid)
+                }
+            }
+        }
+        cb(partyIDs)
     })
 }
 
@@ -173,22 +187,57 @@ const checkIfInGame = async (lockfile: Lockfile, entitlement: Entitlement, puuid
                 p.puuid = player.Subject
                 p.team = player.TeamID
                 p.level = player.PlayerIdentity.AccountLevel
+                p.party = 'none'
                 await getRank(lockfile, p.puuid, entitlement, (rank: string) => {
                     p.rank = rank
                 }).catch(console.log)
-                // await getParty(lockfile, p.puuid, entitlement, (party: string) => {
-                //     p.party = party
-                // })
-                await getNameAndTag(lockfile, entitlement, p.puuid, (n: string, t: string) => {
-                    p.name = n
-                    p.tag = t
-                }).catch(console.log)
+                if(player.PlayerIdentity.Incognito) {
+                    p.name = '----'
+                    p.tag = ' '
+                }
+                else {
+                    await getNameAndTag(lockfile, entitlement, p.puuid, (n: string, t: string) => {
+                        p.name = n
+                        p.tag = '#' + t
+                    }).catch(console.log)
+                }
                 while(!p.rank || !p.name || !p.tag || !p.character) {
                     await sleep(500)
                 }
+                // @ts-ignore: suppress implicit any errors
                 match[p.team.toLowerCase()].push(p)
             }
             while(match.blue.length + match.red.length < 10) await sleep(500)
+            // Get all the player IDs in the match
+            const allPuuids = [ ...match.blue.map((player) => player.puuid), ...match.red.map((player) => player.puuid) ]
+
+            let isLoadingParties = true
+
+            const colors = [ '#4685ff', '#dc5856', '#63e96e', '#de6a2b', '#56344c', '#8480fa', '#ed92c8', '#c2d6d1' ]
+            let colorIndex = 0;
+
+            await getParties(lockfile, allPuuids, (parties: any) => {
+                if(parties) {
+                    for(const partyID of Object.keys(parties)) {
+                        const playersInParty: string[] = parties[partyID]
+                        for(const player of playersInParty) {
+                            let index = match.blue.map(p => p.puuid).indexOf(player)
+                            if(index > 0)
+                                match.blue[index].party = colors[colorIndex]
+                            else {
+                                index = match.red.map(p => p.puuid).indexOf(player)
+                                if(index > 0)
+                                    match.red[index].party = colors[colorIndex]
+                            }
+                        }
+                        colorIndex++
+                    }
+                }
+                isLoadingParties = false
+            })
+
+            while(isLoadingParties) await sleep(500)
+
             cb(match)
         }).catch(console.log)
     }).catch((e) => {

@@ -15,14 +15,14 @@ const Match = (props) => {
         <div id="blue">
           {
             props.match.blue.map((player) => (
-              <MatchPlayerCard player={player} />
+              <MatchPlayerCard key={player.puuid} player={player} />
             ))
           }
         </div>
         <div id="red">
           {
             props.match.red.map((player) => (
-              <MatchPlayerCard player={player} />
+              <MatchPlayerCard key={player.puuid} player={player} />
             ))
           }
         </div>

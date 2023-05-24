@@ -108,6 +108,29 @@ const createWindow = async () => {
   // })
 
   mainWindow.on('ready-to-show', () => {
+
+    mainWindow?.webContents.on("zoom-changed", (event: any, zoomDirection: any) => {
+      console.log(zoomDirection);
+      let currentZoom: number = mainWindow?.webContents.getZoomFactor() ?? 0;
+      console.log("Current Zoom Factor - ", currentZoom);
+      console.log("Current Zoom Level at - ", mainWindow?.webContents.zoomLevel);
+    
+      if (zoomDirection === "in") {
+          if(currentZoom + 0.2 <= 1.0)
+            mainWindow!.webContents.zoomFactor = currentZoom + 0.2;
+    
+          console.log("Zoom Factor Increased to - "
+                      , mainWindow!.webContents.zoomFactor * 100, "%");
+      }
+      if (zoomDirection === "out") {
+          if(currentZoom - 0.2 > 0.1)
+            mainWindow!.webContents.zoomFactor = currentZoom - 0.2;
+    
+          console.log("Zoom Factor Decreased to - "
+                      , mainWindow!.webContents.zoomFactor * 100, "%");
+      }
+    });
+
     if (!mainWindow) {
       throw new Error('"mainWindow" is not defined');
     }
@@ -183,7 +206,6 @@ ipcMain.on('request-match', async () => {
   const tokens = await getEntitlement(lockfile)
   const entitlement: Entitlement = new Entitlement(tokens.accessToken, tokens.token)
   checkIfInGame(lockfile, entitlement, puuid, (match: any) => {
-    console.log(match)
     if(match?.error)
       mainWindow?.webContents.send('get-match', match)
     else

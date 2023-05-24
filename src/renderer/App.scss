@@ -71,10 +71,16 @@ html, body {
   }
   #player-card-right {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-right: 10px;
+    overflow: hidden;
+    #party {
+      width: 15px;
+      height: 100%;
+      rotate: -45deg;
+      margin-top: -85px;
+    }
   }
 }
 
@@ -86,7 +92,7 @@ html, body {
   justify-content: center;
   align-items: center;
   #match-header {
-    height: 100px;
+    height: 150px;
     width: 100vw;
     display: flex;
     flex-direction: row;
@@ -125,7 +131,7 @@ html, body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: -15px;
+    margin-top: -40px;
     #blue, #red {
       width: 100%;
       padding: 0;
@@ -196,10 +202,16 @@ html, body {
         }
         #match-player-card-right {
           display: flex;
-          flex-direction: row-reverse;
+          flex-direction: row;
           justify-content: center;
           align-items: center;
-          margin-right: 10px;
+          overflow: hidden;
+          #party {
+            width: 15px;
+            height: 50%;
+            rotate: -45deg;
+            margin-top: -85px;
+          }
         }
       }
     }

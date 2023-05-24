@@ -18,6 +18,7 @@ const MatchPlayerCard = (props) => {
       </div>
       <div id="match-player-card-right">
         <img id="rank" width='60px' height='60px' src={require(`../images/ranks/${props.player.rank.CompetitiveTier}.png`)} />
+        <div id="party" style={{ backgroundColor: props.player.party === 'none' ? 'transparent' : props.player.party }}></div>
       </div>
     </div>
   )

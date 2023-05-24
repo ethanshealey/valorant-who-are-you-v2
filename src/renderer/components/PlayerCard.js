@@ -18,6 +18,7 @@ const PlayerCard = (props) => {
       </div>
       <div id="player-card-right">
         <img id="rank" width='75px' height='75px' src={require(`../images/ranks/${props.user.rank}.png`)} />
+        <div id="party"></div>
       </div>
     </div>
   )
