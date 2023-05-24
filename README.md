@@ -2,7 +2,7 @@
 ---
 Instructions:
 <ul>
-    <li>Download the latest <i><a href="https://github.com/ethanshealey/valorant-who-are-you-v2/releases">release</a></i></li>
+    <li>Download the latest <a href="https://github.com/ethanshealey/valorant-who-are-you-v2/releases">release</a></li>
     <li>Run Who.Are.You.Setup.exe</li>
     <li>The application will be added to your desktop, and will automatically launch when installed</li>
     <li>Launch VALORANT if not already open, once launched the app should show you your information</li>
