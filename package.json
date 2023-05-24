@@ -165,7 +165,7 @@
   },
   "build": {
     "productName": "Who Are You",
-    "appId": "com.ethanshealey",
+    "appId": "org.erb.ElectronReact",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
@@ -223,12 +223,12 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "ethanshealey",
-      "repo": "valorant-who-are-you-v2"
+      "owner": "electron-react-boilerplate",
+      "repo": "electron-react-boilerplate"
     }
   },
   "collective": {
-    "url": ""
+    "url": "https://opencollective.com/electron-react-boilerplate-594"
   },
   "devEngines": {
     "node": ">=14.x",
