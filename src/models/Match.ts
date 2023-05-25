@@ -6,6 +6,7 @@ export default class Match {
     public red: Player[] = []
     public mode: string
     public map: string
+    public id: string
 
     constructor(){}
 

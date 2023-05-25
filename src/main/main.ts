@@ -202,13 +202,14 @@ ipcMain.on('request-user', async () => {
 /**
  * REQUEST MATCH
  */
+let prevMatchId: string = '';
 ipcMain.on('request-match', async () => {
   const tokens = await getEntitlement(lockfile)
   const entitlement: Entitlement = new Entitlement(tokens.accessToken, tokens.token)
-  checkIfInGame(lockfile, entitlement, puuid, (match: any) => {
+  checkIfInGame(lockfile, entitlement, puuid, prevMatchId, (match: any) => {
     if(match?.error)
       mainWindow?.webContents.send('get-match', match)
-    else
+    else if(!match?.error)
       mainWindow?.webContents.send('get-match', { ...match, error: null })
     ipcMain.removeAllListeners('get-match')
   })

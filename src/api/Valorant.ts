@@ -94,7 +94,7 @@ const getUser = async (lockfile: Lockfile, cb: Function) => {
 }
 
 const getSelfRank = async (lockfile: Lockfile, puuid: string, entitlement: Entitlement, cb: Function) => {
-    const url = `https://pd.${lockfile.shard}.a.pvp.net/mmr/v1/players/${puuid}`
+    const url = `https://pd.${lockfile.shard ?? 'na'}.a.pvp.net/mmr/v1/players/${puuid}`
     axiosRequestWithEntitlement(lockfile.version, entitlement).get(url).then((res) => {
         const latestComp = res.data.LatestCompetitiveUpdate.SeasonID
         const queueSkills = res.data.QueueSkills['competitive']
@@ -105,9 +105,9 @@ const getSelfRank = async (lockfile: Lockfile, puuid: string, entitlement: Entit
         else {
             rank = '0'
         }
-        axiosRequestWithEntitlement(lockfile.version, entitlement).get(`https://pd.${lockfile.shard}.a.pvp.net/personalization/v2/players/${puuid}/playerloadout`).then((res) => {
+        axiosRequestWithEntitlement(lockfile.version, entitlement).get(`https://pd.${lockfile.shard ?? 'na'}.a.pvp.net/personalization/v2/players/${puuid}/playerloadout`).then((res) => {
             const card = res.data.Identity.PlayerCardID
-            axiosRequestWithEntitlement(lockfile.version, entitlement).get(`https://pd.${lockfile.shard}.a.pvp.net/account-xp/v1/players/${puuid}`).then((res) => {
+            axiosRequestWithEntitlement(lockfile.version, entitlement).get(`https://pd.${lockfile.shard ?? 'na'}.a.pvp.net/account-xp/v1/players/${puuid}`).then((res) => {
                 const level = res.data.Progress.Level
                 cb(rank, card, level)
             }).catch(console.log)
@@ -117,7 +117,7 @@ const getSelfRank = async (lockfile: Lockfile, puuid: string, entitlement: Entit
 }
 
 const getRank = async (lockfile: Lockfile, puuid: string, entitlement: Entitlement, cb: Function) => {
-    const url = `https://pd.${lockfile.shard}.a.pvp.net/mmr/v1/players/${puuid}`
+    const url = `https://pd.${lockfile.shard ?? 'na'}.a.pvp.net/mmr/v1/players/${puuid}`
     axiosRequestWithEntitlement(lockfile.version, entitlement).get(url).then((res) => {
         const latestComp = res.data.LatestCompetitiveUpdate.SeasonID
         const queueSkills = res.data.QueueSkills['competitive']
@@ -139,7 +139,7 @@ const getRank = async (lockfile: Lockfile, puuid: string, entitlement: Entitleme
 }
 
 const getNameAndTag = async (lockfile: Lockfile, entitlement: Entitlement, puuid: string, cb: Function) => {
-    const url = `https://pd.${lockfile.shard}.a.pvp.net/name-service/v2/players`
+    const url = `https://pd.${lockfile.shard ?? 'na'}.a.pvp.net/name-service/v2/players`
     axiosRequestWithEntitlement(lockfile.version, entitlement).put(url, [puuid]).then((res) => {
         if(res.data) cb(res.data[0].GameName, res.data[0].TagLine)
         else return cb('', '')
@@ -159,13 +159,13 @@ const getParties = async (lockfile: Lockfile, allPuuids: string[], cb: Function)
             const partyId = party.partyId
             const partySize = party.partySize
             if(partySize > 1) {
-                if(!(party in partyIDs)) {
+                if(!(partyId in partyIDs)) {
                     // @ts-ignore: suppress implicit any errors
-                    partyIDs[party] = [ puuid ]
+                    partyIDs[partyId] = [ puuid ]
                 }
                 else {
                     // @ts-ignore: suppress implicit any errors
-                    partyIDs[party].push(puuid)
+                    partyIDs[partyId].push(puuid)
                 }
             }
         }
@@ -173,12 +173,17 @@ const getParties = async (lockfile: Lockfile, allPuuids: string[], cb: Function)
     })
 }
 
-const checkIfInGame = async (lockfile: Lockfile, entitlement: Entitlement, puuid: string, cb: Function) => {
-    let url = `https://glz-${lockfile.region}-1.${lockfile.shard}.a.pvp.net/core-game/v1/players/${puuid}`
+const checkIfInGame = async (lockfile: Lockfile, entitlement: Entitlement, puuid: string, prevMatchId: string, cb: Function) => {
+    let url = `https://glz-${lockfile.region}-1.${lockfile.shard ?? 'na'}.a.pvp.net/core-game/v1/players/${puuid}`
     axiosRequestWithEntitlement(lockfile.version, entitlement).get(url).then((res) => {
-        url = `https://glz-${lockfile.region}-1.${lockfile.shard}.a.pvp.net/core-game/v1/matches/${res.data.MatchID}`
+        const matchId = res.data.MatchID
+
+        if(matchId === prevMatchId) return
+
+        url = `https://glz-${lockfile.region}-1.${lockfile.shard ?? 'na'}.a.pvp.net/core-game/v1/matches/${matchId}`
         axiosRequestWithEntitlement(lockfile.version, entitlement).get(url).then(async (res) => {
             const match: Match = new Match()
+            match.id = matchId
             match.map = res.data.MapID
             match.mode = res.data.MatchmakingData.QueueID
             for(const player of res.data.Players) {
@@ -213,20 +218,21 @@ const checkIfInGame = async (lockfile: Lockfile, entitlement: Entitlement, puuid
 
             let isLoadingParties = true
 
-            const colors = [ '#4685ff', '#dc5856', '#63e96e', '#de6a2b', '#56344c', '#8480fa', '#ed92c8', '#c2d6d1' ]
+            const colors = [ '#4685ff', '#dc5856', '#63e96e', '#f59622', '#56344c', '#8480fa', '#ed92c8', '#c2d6d1' ]
             let colorIndex = 0;
 
             await getParties(lockfile, allPuuids, (parties: any) => {
                 if(parties) {
                     for(const partyID of Object.keys(parties)) {
+                        console.log('partyID:', partyID, ', color: ', colors[colorIndex])
                         const playersInParty: string[] = parties[partyID]
                         for(const player of playersInParty) {
                             let index = match.blue.map(p => p.puuid).indexOf(player)
-                            if(index > 0)
+                            if(index >= 0) 
                                 match.blue[index].party = colors[colorIndex]
                             else {
                                 index = match.red.map(p => p.puuid).indexOf(player)
-                                if(index > 0)
+                                if(index >= 0) 
                                     match.red[index].party = colors[colorIndex]
                             }
                         }
