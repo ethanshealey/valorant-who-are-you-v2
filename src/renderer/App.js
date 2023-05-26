@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react';
 import Lockfile from 'models/Lockfile';
 import Spinner from './components/Spinner';
 import PlayerCard from './components/PlayerCard';
-import sleep from '../helpers/sleep';
 import Match from './components/Match';
 
 const Main = () => {
@@ -19,19 +18,22 @@ const Main = () => {
   useEffect(() => {
     const loop = setInterval(() => {
       window.bridge.requestMatch()
-    }, 30_000)
+    }, 15_000)
     return () => clearInterval(loop)
+  }, [])
+
+  useEffect(() => {
+    console.log(match)
   }, [match])
 
   window.bridge.getUser((event, lf) => {
     setUser(lf)
-    window.bridge.requestMatch()
     window.bridge.awaitDeath()
   })
 
   window.bridge.getMatch((event, m) => {
-    setMatch(m)
     console.log(m)
+    setMatch(_ => m)
   })
 
   return user ? match?.error === 'No Live Game' ? (
@@ -39,8 +41,8 @@ const Main = () => {
   ) : (
     <Match match={match} />
   ) : (
-    <Spinner text={"Loading..."} />
-  );
+    <Spinner text={"Waiting for Valorant..."} />
+  )
 }
 
 export default function App() {

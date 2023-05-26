@@ -204,15 +204,20 @@ ipcMain.on('request-user', async () => {
  */
 let prevMatchId: string = '';
 ipcMain.on('request-match', async () => {
-  const tokens = await getEntitlement(lockfile)
-  const entitlement: Entitlement = new Entitlement(tokens.accessToken, tokens.token)
-  checkIfInGame(lockfile, entitlement, puuid, prevMatchId, (match: any) => {
-    if(match?.error)
-      mainWindow?.webContents.send('get-match', match)
-    else if(!match?.error)
-      mainWindow?.webContents.send('get-match', { ...match, error: null })
-    ipcMain.removeAllListeners('get-match')
-  })
+  if(lockfile) {
+    const tokens = await getEntitlement(lockfile)
+    const entitlement: Entitlement = new Entitlement(tokens.accessToken, tokens.token)
+    checkIfInGame(lockfile, entitlement, puuid, prevMatchId, (match: any) => {
+      console.log(match?.error)
+      if(match?.error)
+        mainWindow?.webContents.send('get-match', match)
+      else if(!match?.error) {
+        mainWindow?.webContents.send('get-match', { ...match, error: null })
+        prevMatchId = match.id
+      }
+      ipcMain.removeAllListeners('get-match')
+    })
+  }
 })
 
 ipcMain.on('await-death', async () => {

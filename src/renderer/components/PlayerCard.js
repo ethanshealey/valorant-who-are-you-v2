@@ -9,7 +9,7 @@ const PlayerCard = (props) => {
         <img width='75px' height='75px' src={cards[props.user.image].Image} />
         <div id="name-and-level">
           <h1 id="name">
-            {props.user.name}<span>{props.user.tag}</span>
+            {props.user.name}<span>#{props.user.tag}</span>
           </h1>
           <h3 id="level">
             {props.user.level}
