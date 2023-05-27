@@ -191,18 +191,22 @@ const getSelfRank = async (lockfile: Lockfile, puuid: string, entitlement: Entit
     axiosRequestWithEntitlement(lockfile.version, entitlement).get(url).then((res) => {
         const latestComp = res.data.LatestCompetitiveUpdate.SeasonID
         const queueSkills = res.data.QueueSkills['competitive']
-        let rank: string;
+        let rank: any;
 
+        console.log(queueSkills)
         // Check if the user has played this current season
         // If they have then you can get their current rank
         // using the queueSkills data, if they have not played
         // then you can default to 0, being 'unrated'
-        if(queueSkills[latestComp]) {
-            rank = queueSkills[latestComp].CompetitiveTier
+        if(queueSkills?.SeasonalInfoBySeasonID) {
+            if(queueSkills.SeasonalInfoBySeasonID[latestComp]) {
+                rank = queueSkills.SeasonalInfoBySeasonID[latestComp]
+            }
+            else {
+                rank = { CompetitiveTier: '0' }
+            }
         }
-        else {
-            rank = '0'
-        }
+        
 
         // Get the users player card to display on the home screen
         axiosRequestWithEntitlement(lockfile.version, entitlement).get(`https://pd.${lockfile.shard ?? 'na'}.a.pvp.net/personalization/v2/players/${puuid}/playerloadout`).then((res) => {

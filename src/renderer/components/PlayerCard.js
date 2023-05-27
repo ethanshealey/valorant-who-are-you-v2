@@ -17,7 +17,7 @@ const PlayerCard = (props) => {
         </div>
       </div>
       <div id="player-card-right">
-        <img id="rank" width='75px' height='75px' src={require(`../images/ranks/${props.user.rank}.png`)} />
+        <img id="rank" width='75px' height='75px' src={require(`../images/ranks/${props.user.rank.CompetitiveTier}.png`)} />
         <div id="party"></div>
       </div>
     </div>
