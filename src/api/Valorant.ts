@@ -290,7 +290,7 @@ const getParties = async (lockfile: Lockfile, allPuuids: string[], cb: Function)
     axiosRequestWithPassword(lockfile.password).get(url).then((res) => {
         // Only keep the player IDs that are in the game
         const presences: any = res.data.presences.filter((player: Player) => allPuuids.includes(player.puuid))
-        const partyIDs = {}
+        const partyIDs: any = {}
         // For each player:
         //  - Get the users party
         //  - If the party has a size > 2:
@@ -298,16 +298,14 @@ const getParties = async (lockfile: Lockfile, allPuuids: string[], cb: Function)
         for(const presence of presences) {
             const puuid: string = presence.puuid
             const party: any = JSON.parse(Buffer.from(presence.private, 'base64').toString('utf-8'))
-            const partyId = party.partyId
-            const partySize = party.partySize
+            const partyId: string = party.partyId
+            const partySize: number = party.partySize
             if(partySize > 1) {
                 console.log(partyId, partySize)
                 if(!(partyId in partyIDs)) {
-                    // @ts-ignore: suppress implicit any errors
                     partyIDs[partyId] = [ puuid ]
                 }
                 else {
-                    // @ts-ignore: suppress implicit any errors
                     partyIDs[partyId].push(puuid)
                 }
             }
@@ -396,21 +394,24 @@ const checkIfInGame = async (lockfile: Lockfile, entitlement: Entitlement, puuid
                     if(parties) {
                         // For each party ->
                         for(const partyID of Object.keys(parties)) {
-                            const playersInParty: string[] = parties[partyID]
-                            // For each player in the party ->
-                            for(const player of playersInParty) {
-                                // Find if player is in blue team or red team, then add the 
-                                // party attribute to their object
-                                let index = match.blue.map(p => p.puuid).indexOf(player)
-                                if(index >= 0) 
-                                    match.blue[index].party = colors[colorIndex]
-                                else {
-                                    index = match.red.map(p => p.puuid).indexOf(player)
+                            const playersInParty: string[] = parties[partyID] 
+                            // Stop players in lobby alone from counting
+                            if(playersInParty.length > 1) {
+                                // For each player in the party ->
+                                for(const player of playersInParty) {
+                                    // Find if player is in blue team or red team, then add the 
+                                    // party attribute to their object
+                                    let index = match.blue.map(p => p.puuid).indexOf(player)
                                     if(index >= 0) 
-                                        match.red[index].party = colors[colorIndex]
+                                        match.blue[index].party = colors[colorIndex]
+                                    else {
+                                        index = match.red.map(p => p.puuid).indexOf(player)
+                                        if(index >= 0) 
+                                            match.red[index].party = colors[colorIndex]
+                                    }
                                 }
+                                colorIndex++
                             }
-                            colorIndex++
                         }
                     }
                     isLoadingParties = false

@@ -1,7 +1,6 @@
 import { MemoryRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.scss';
 import { useState, useEffect } from 'react';
-import Lockfile from 'models/Lockfile';
 import Spinner from './components/Spinner';
 import PlayerCard from './components/PlayerCard';
 import Match from './components/Match';
